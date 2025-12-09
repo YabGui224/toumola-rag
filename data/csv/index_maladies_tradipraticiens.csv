@@ -1,0 +1,32 @@
+maladie,tradipraticien_nom,localisation,telephone,experience,specialite
+Paludisme,Alpha Diallo,Conakry,+224 622 45 67 89,20 ans,Paludisme
+Paludisme,Mamadou Bah,Kindia,+224 628 34 56 78,15 ans,Paludisme
+Paludisme,Thierno Barry,Labé,+224 625 78 90 12,25 ans,Paludisme
+Diabète,Kadiatou Camara,Conakry,+224 620 11 22 33,18 ans,Diabète
+Diabète,Boubacar Kaba,Mamou,+224 627 44 55 66,22 ans,Diabète
+Diabète,Fatoumata Touré,Kankan,+224 629 77 88 99,15 ans,Diabète
+Hypertension artérielle,Sékou Condé,Conakry,+224 621 33 44 55,20 ans,Hypertension artérielle
+Hypertension artérielle,Aissatou Sylla,Dalaba,+224 626 66 77 88,16 ans,Hypertension artérielle
+Hypertension artérielle,Lansana Keita,Pita,+224 623 99 00 11,25 ans,Hypertension artérielle
+Troubles digestifs,Ibrahima Sow,Conakry,+224 624 12 23 34,12 ans,Troubles digestifs
+Troubles digestifs,Mariama Bangoura,Kindia,+224 628 45 56 67,18 ans,Troubles digestifs
+Troubles digestifs,Fodé Soumah,Mamou,+224 622 78 89 90,15 ans,Troubles digestifs
+Diarrhée,Amadou Diané,Conakry,+224 625 01 12 23,20 ans,Diarrhée
+Diarrhée,Hawa Baldé,Labé,+224 629 34 45 56,14 ans,Diarrhée
+Diarrhée,Ousmane Sidibé,Kankan,+224 627 67 78 89,22 ans,Diarrhée
+Toux et problèmes respiratoires,Souleymane Traoré,Conakry,+224 626 90 01 12,18 ans,Toux et problèmes respiratoires
+Toux et problèmes respiratoires,Bintou Cissé,Labé,+224 623 23 34 45,15 ans,Toux et problèmes respiratoires
+Toux et problèmes respiratoires,Mohamed Konaté,Siguiri,+224 628 56 67 78,20 ans,Toux et problèmes respiratoires
+Fièvre,Alpha Barry,Conakry,+224 622 89 90 01,16 ans,Fièvre
+Fièvre,Djénabou Kaba,Kindia,+224 627 12 23 34,19 ans,Fièvre
+Fièvre,Thierno Diallo,Dalaba,+224 625 45 56 67,23 ans,Fièvre
+Plaies et infections cutanées,Saliou Camara,Conakry,+224 629 78 89 90,21 ans,Plaies et infections cutanées
+Plaies et infections cutanées,Fatoumata Sylla,Boké,+224 624 01 12 23,17 ans,Plaies et infections cutanées
+Plaies et infections cutanées,Mouctar Condé,Télimélé,+224 626 34 45 56,19 ans,Plaies et infections cutanées
+Douleurs articulaires et rhumatismes,Lansana Touré,Conakry,+224 623 67 78 89,24 ans,Douleurs articulaires et rhumatismes
+Douleurs articulaires et rhumatismes,Aïcha Bangoura,Mamou,+224 628 90 01 12,18 ans,Douleurs articulaires et rhumatismes
+Douleurs articulaires et rhumatismes,Abdoulaye Keita,Labé,+224 625 23 34 45,20 ans,Douleurs articulaires et rhumatismes
+Constipation,Mamadou Sow,Conakry,+224 627 56 67 78,15 ans,Constipation
+Constipation,Hadja Diallo,Kindia,+224 622 89 90 01,19 ans,Constipation
+Anémie et fatigue,Sékou Bangoura,Conakry,+224 624 12 23 34,17 ans,Anémie et fatigue
+Anémie et fatigue,Mariama Condé,Kankan,+224 629 45 56 67,20 ans,Anémie et fatigue

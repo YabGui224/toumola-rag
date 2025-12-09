@@ -1,0 +1,41 @@
+id,name,location,experience,specialty,phone,rating,reviews,imageUrl
+TRAD001,Ousmane Cissé,N'Zérékoré,Plus de 35 ans,Soins des enfants,+224 670 34 51 97,4.8,216,https://images.unsplash.com/photo-1588865604-211243
+TRAD002,Fanta Keita,Conakry,Plus de 35 ans,Soins des femmes enceintes,+224 647 63 22 15,4.4,120,https://images.unsplash.com/photo-1522673518-301192
+TRAD003,Fatoumata Condé,Télimélé,30 ans,Douleurs articulaires,+224 697 70 14 37,4.9,101,https://images.unsplash.com/photo-1633568489-595926
+TRAD004,Aissatou Traoré,Dalaba,10 ans,Traitement du paludisme,+224 662 61 26 35,4.4,70,https://images.unsplash.com/photo-1559222907-632300
+TRAD005,Fatoumata Konaté,Kissidougou,Plus de 35 ans,Soins des femmes enceintes,+224 682 30 80 51,4.8,211,https://images.unsplash.com/photo-1608562650-941822
+TRAD006,Hadja Diallo,Télimélé,30 ans,Soins des femmes enceintes,+224 646 14 11 85,4.6,237,https://images.unsplash.com/photo-1698036668-906809
+TRAD007,Kadiatou Barry,Mamou,15 ans,Diabète et hypertension,+224 693 62 34 16,4.9,36,https://images.unsplash.com/photo-1650650459-852419
+TRAD008,Ibrahima Sow,Boké,20 ans,Douleurs articulaires,+224 638 81 62 86,4.5,197,https://images.unsplash.com/photo-1648533813-397412
+TRAD009,Souleymane Camara,Kankan,20 ans,Soins des enfants,+224 691 64 52 12,3.8,161,https://images.unsplash.com/photo-1629402663-622431
+TRAD010,Amadou Baldé,Macenta,10 ans,Soins des femmes enceintes,+224 686 25 28 30,4.2,238,https://images.unsplash.com/photo-1685135744-192336
+TRAD011,Boubacar Keita,Labé,Plus de 35 ans,Traitement du paludisme,+224 638 61 30 51,5.0,101,https://images.unsplash.com/photo-1643668030-334754
+TRAD012,Alpha Diané,Mamou,20 ans,Douleurs articulaires,+224 673 66 49 43,5.0,40,https://images.unsplash.com/photo-1547628325-881460
+TRAD013,Lansana Kaba,N'Zérékoré,30 ans,Diabète et hypertension,+224 699 99 72 92,4.2,197,https://images.unsplash.com/photo-1554380917-378832
+TRAD014,Fatoumata Baldé,Kindia,10 ans,Fertilité,+224 699 60 37 74,4.4,126,https://images.unsplash.com/photo-1500517018-240826
+TRAD015,Ousmane Soumah,Labé,20 ans,Soins des enfants,+224 666 35 49 54,4.5,17,https://images.unsplash.com/photo-1628242731-740570
+TRAD016,Bintou Keita,Mamou,20 ans,Troubles digestifs,+224 692 51 56 82,4.9,140,https://images.unsplash.com/photo-1531680152-532879
+TRAD017,Ousmane Camara,Labé,30 ans,Soins des femmes enceintes,+224 676 62 23 73,4.0,42,https://images.unsplash.com/photo-1673093380-734397
+TRAD018,Saliou Camara,Dalaba,5 ans,Soins des femmes enceintes,+224 687 98 76 36,4.9,73,https://images.unsplash.com/photo-1670475145-572187
+TRAD019,Bintou Diallo,N'Zérékoré,25 ans,Diabète et hypertension,+224 668 33 56 37,3.8,16,https://images.unsplash.com/photo-1559918833-549274
+TRAD020,Fatoumata Diallo,Mamou,Plus de 35 ans,Fertilité,+224 649 30 47 11,4.1,89,https://images.unsplash.com/photo-1602662103-239196
+TRAD021,Fanta Touré,Conakry,25 ans,Douleurs articulaires,+224 638 60 78 28,3.8,52,https://images.unsplash.com/photo-1642897833-168495
+TRAD022,Fatoumata Konaté,Labé,5 ans,Troubles digestifs,+224 691 22 77 27,4.9,202,https://images.unsplash.com/photo-1654735369-510917
+TRAD023,Mouctar Kaba,Télimélé,10 ans,Douleurs articulaires,+224 669 53 66 33,4.0,80,https://images.unsplash.com/photo-1654469748-757259
+TRAD024,Fodé Diané,Labé,5 ans,Maladies de peau,+224 638 64 23 42,4.9,218,https://images.unsplash.com/photo-1608908449-746469
+TRAD025,Mohamed Bangoura,Conakry,10 ans,Troubles digestifs,+224 687 54 64 31,4.0,126,https://images.unsplash.com/photo-1599338075-143486
+TRAD026,Ibrahima Condé,Guékédou,20 ans,Diabète et hypertension,+224 689 70 97 83,4.9,100,https://images.unsplash.com/photo-1573392842-525432
+TRAD027,Djénabou Keita,Pita,5 ans,Fractures et entorses,+224 633 68 76 38,3.9,64,https://images.unsplash.com/photo-1560283785-660583
+TRAD028,Thierno Sow,Boké,15 ans,Traitement du paludisme,+224 622 19 98 67,4.9,54,https://images.unsplash.com/photo-1637296708-174409
+TRAD029,Abdoulaye Camara,Mamou,15 ans,Soins des enfants,+224 688 82 38 75,3.9,60,https://images.unsplash.com/photo-1507934085-199025
+TRAD030,Ibrahima Sidibé,Kissidougou,Plus de 35 ans,Phytothérapie générale,+224 681 30 55 18,4.5,135,https://images.unsplash.com/photo-1671803645-299099
+TRAD031,Sékou Baldé,Siguiri,15 ans,Maladies de peau,+224 688 99 33 94,4.7,124,https://images.unsplash.com/photo-1639370021-953964
+TRAD032,Lansana Keita,Dalaba,15 ans,Soins des femmes enceintes,+224 621 36 14 15,4.0,191,https://images.unsplash.com/photo-1503879261-583319
+TRAD033,Fatoumata Barry,Dinguiraye,10 ans,Traitement du paludisme,+224 682 11 29 98,4.1,99,https://images.unsplash.com/photo-1688682122-338382
+TRAD034,Kadiatou Baldé,Macenta,20 ans,Douleurs articulaires,+224 632 40 32 73,4.8,177,https://images.unsplash.com/photo-1598167158-775277
+TRAD035,Sékou Camara,Conakry,10 ans,Fractures et entorses,+224 660 41 63 66,3.9,21,https://images.unsplash.com/photo-1574456343-271532
+TRAD036,Fatoumata Cissé,Kankan,5 ans,Fertilité,+224 688 32 24 38,3.8,141,https://images.unsplash.com/photo-1604616325-743382
+TRAD037,Aissatou Konaté,Kissidougou,5 ans,Douleurs articulaires,+224 655 84 33 47,3.9,48,https://images.unsplash.com/photo-1527604181-517147
+TRAD038,Boubacar Barry,Siguiri,30 ans,Traitement du paludisme,+224 654 66 18 10,4.4,99,https://images.unsplash.com/photo-1670396888-740960
+TRAD039,Boubacar Cissé,Pita,10 ans,Diabète et hypertension,+224 666 72 44 26,5.0,136,https://images.unsplash.com/photo-1643564025-376376
+TRAD040,Fodé Sow,Boké,30 ans,Douleurs articulaires,+224 640 30 97 81,4.6,92,https://images.unsplash.com/photo-1614301161-958748

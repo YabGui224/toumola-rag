@@ -1,0 +1,2627 @@
+{
+  "plantes": [
+    {
+      "nomScientifique": "Combretum micranthum",
+      "nomPublic": "Kinkéliba",
+      "nomLocal": "Kankaliba (Malinké), Kankalibandyi (Soussou), Kankaliba (Poular)",
+      "description": "Arbuste aux feuilles persistantes atteignant 2 à 5 mètres, trouvé principalement dans les régions de savane d'Afrique de l'Ouest. Appelé 'tisane de longue vie' pour ses nombreuses vertus.",
+      "proprietesMedicinales": [
+        "Diurétique",
+        "Cholagogue",
+        "Hépatoprotecteur",
+        "Antioxydant",
+        "Anti-inflammatoire",
+        "Antibactérien",
+        "Fébrifuge"
+      ],
+      "maladiesTraitees": [
+        "Troubles digestifs",
+        "Constipation",
+        "Infections urinaires",
+        "Paludisme",
+        "Diabète",
+        "Obésité",
+        "Calculs biliaires",
+        "Fièvre"
+      ],
+      "posologie": "Infusion: 10g de feuilles dans 1L d'eau, bouillir 15 min, infuser 15-20 min. Boire 2-3 tasses par jour.",
+      "zonesGeographiques": [
+        "Guinée",
+        "Sénégal",
+        "Mali",
+        "Burkina Faso",
+        "Niger",
+        "Côte d'Ivoire"
+      ],
+      "informationsEthnobotaniques": "Consommé traditionnellement au petit déjeuner en Guinée comme alternative au café. Donné aux jeunes mamans après l'accouchement. Partie de la pharmacopée française depuis 1937.",
+      "partiesUtilisees": [
+        "Feuilles",
+        "Racines"
+      ],
+      "precautions": "Éviter en cas de grossesse (1er trimestre). Ne pas dépasser les doses recommandées. Consulter un médecin en cas de calculs biliaires."
+    },
+    {
+      "nomScientifique": "Moringa oleifera",
+      "nomPublic": "Moringa, Arbre de vie",
+      "nomLocal": "Néré (Malinké), Néré béné (Soussou), Nebedayi (Poular)",
+      "description": "Arbre à croissance rapide pouvant atteindre 10-12 mètres, originaire d'Inde mais largement cultivé en Afrique de l'Ouest. Extrêmement nutritif, toutes les parties sont comestibles.",
+      "proprietesMedicinales": [
+        "Antioxydant",
+        "Anti-inflammatoire",
+        "Hypoglycémiant",
+        "Hypolipémiant",
+        "Antimicrobien",
+        "Immunostimulant",
+        "Nutritif"
+      ],
+      "maladiesTraitees": [
+        "Malnutrition",
+        "Anémie",
+        "Diabète",
+        "Hypertension",
+        "Infections",
+        "Inflammations",
+        "Fatigue chronique"
+      ],
+      "posologie": "Poudre de feuilles: 1-2 cuillères à café par jour dans les aliments ou en infusion. Commencer progressivement.",
+      "zonesGeographiques": [
+        "Toute l'Afrique de l'Ouest",
+        "Guinée",
+        "Sénégal",
+        "Mali"
+      ],
+      "informationsEthnobotaniques": "Utilisé depuis des siècles pour combattre la malnutrition. Les feuilles fraîches sont consommées comme légume. L'huile de graines est utilisée en cosmétique.",
+      "partiesUtilisees": [
+        "Feuilles",
+        "Graines",
+        "Racines",
+        "Écorce",
+        "Fleurs",
+        "Gousses"
+      ],
+      "precautions": "Éviter les racines et l'écorce pendant la grossesse. Commencer avec de petites doses pour éviter les troubles digestifs."
+    },
+    {
+      "nomScientifique": "Azadirachta indica",
+      "nomPublic": "Neem, Margousier",
+      "nomLocal": "Nim (Malinké), Kini (Soussou), Wèrè (Poular)",
+      "description": "Grand arbre pouvant atteindre 15-20 mètres, très résistant à la sécheresse. Connu comme 'pharmacie du village' pour ses multiples usages médicinaux.",
+      "proprietesMedicinales": [
+        "Antibactérien",
+        "Antifongique",
+        "Antiparasitaire",
+        "Anti-inflammatoire",
+        "Immunostimulant",
+        "Hypoglycémiant"
+      ],
+      "maladiesTraitees": [
+        "Paludisme",
+        "Infections cutanées",
+        "Diabète",
+        "Hypertension",
+        "Problèmes dentaires",
+        "Parasites intestinaux"
+      ],
+      "posologie": "Infusion de feuilles: 10-15 feuilles dans 500ml d'eau, infuser 10 min. Boire 1-2 tasses par jour. Usage externe: décoction pour bains ou compresses.",
+      "zonesGeographiques": [
+        "Guinée",
+        "Mali",
+        "Sénégal",
+        "Niger",
+        "Burkina Faso"
+      ],
+      "informationsEthnobotaniques": "Les feuilles sont utilisées pour purifier l'eau. Les bâtonnets de neem servent de brosse à dents naturelle. L'huile est un insecticide naturel.",
+      "partiesUtilisees": [
+        "Feuilles",
+        "Écorce",
+        "Graines",
+        "Racines"
+      ],
+      "precautions": "Ne pas utiliser pendant la grossesse et l'allaitement. Peut affecter la fertilité masculine à forte dose. Éviter chez les jeunes enfants."
+    },
+    {
+      "nomScientifique": "Zingiber officinale",
+      "nomPublic": "Gingembre",
+      "nomLocal": "Gnanamé (Malinké), Tangamanè (Soussou), Adja (Poular)",
+      "description": "Plante herbacée dont le rhizome est utilisé comme épice et médicament. Cultivé dans les zones tropicales humides de Guinée Forestière.",
+      "proprietesMedicinales": [
+        "Anti-inflammatoire",
+        "Antioxydant",
+        "Antiémétique",
+        "Analgésique",
+        "Digestif",
+        "Immunostimulant"
+      ],
+      "maladiesTraitees": [
+        "Nausées",
+        "Vomissements",
+        "Douleurs articulaires",
+        "Douleurs menstruelles",
+        "Rhume",
+        "Grippe",
+        "Troubles digestifs"
+      ],
+      "posologie": "Infusion: 1-2 cm de rhizome frais râpé dans une tasse d'eau chaude. Boire 2-3 fois par jour. Décoction: 10g de gingembre frais bouilli 10 min.",
+      "zonesGeographiques": [
+        "Guinée Forestière",
+        "Côte d'Ivoire",
+        "Ghana"
+      ],
+      "informationsEthnobotaniques": "Utilisé dans la médecine traditionnelle guinéenne pour faciliter l'accouchement. Mélangé au miel et citron contre les maux de gorge.",
+      "partiesUtilisees": [
+        "Rhizome"
+      ],
+      "precautions": "Déconseillé en cas d'ulcère gastrique. Prudence avec les anticoagulants. Peut augmenter les contractions utérines."
+    },
+    {
+      "nomScientifique": "Hibiscus sabdariffa",
+      "nomPublic": "Bissap, Oseille de Guinée",
+      "nomLocal": "Foré (Malinké), Womtimi (Soussou), Folere (Poular)",
+      "description": "Plante herbacée annuelle cultivée pour ses calices rouges charnus qui entourent le fruit. Très populaire en Afrique de l'Ouest pour préparer une boisson rafraîchissante.",
+      "proprietesMedicinales": [
+        "Antihypertenseur",
+        "Diurétique",
+        "Antioxydant",
+        "Laxatif doux",
+        "Antipyrétique",
+        "Hépatoprotecteur"
+      ],
+      "maladiesTraitees": [
+        "Hypertension artérielle",
+        "Constipation",
+        "Fièvre",
+        "Infections urinaires",
+        "Fatigue"
+      ],
+      "posologie": "Infusion: 2 cuillères à soupe de calices séchés dans 1L d'eau chaude, infuser 10-15 min. Boire 2-3 verres par jour, froid ou chaud.",
+      "zonesGeographiques": [
+        "Toute l'Afrique de l'Ouest",
+        "Guinée",
+        "Sénégal",
+        "Mali"
+      ],
+      "informationsEthnobotaniques": "Le bissap est la boisson nationale du Sénégal et très consommé en Guinée. Les feuilles jeunes sont consommées comme légume. Riche en vitamine C.",
+      "partiesUtilisees": [
+        "Calices",
+        "Feuilles"
+      ],
+      "precautions": "Peut diminuer la pression artérielle, prudence avec les médicaments hypotenseurs. Éviter en cas de grossesse (peut favoriser les contractions)."
+    },
+    {
+      "nomScientifique": "Cymbopogon citratus",
+      "nomPublic": "Citronnelle",
+      "nomLocal": "Soro kèlè (Malinké), Sere toro (Soussou), Naïdi (Poular)",
+      "description": "Graminée vivace formant des touffes denses, à forte odeur de citron. Largement cultivée dans les jardins guinéens pour ses usages médicinaux et culinaires.",
+      "proprietesMedicinales": [
+        "Antipyrétique",
+        "Antispasmodique",
+        "Digestif",
+        "Sédatif léger",
+        "Antimicrobien",
+        "Insectifuge"
+      ],
+      "maladiesTraitees": [
+        "Fièvre",
+        "Troubles digestifs",
+        "Insomnie",
+        "Maux de tête",
+        "Douleurs musculaires",
+        "Rhume"
+      ],
+      "posologie": "Infusion: 2-3 tiges fraîches ou 1 cuillère à soupe de feuilles séchées dans une tasse d'eau chaude. Infuser 5-10 min. Boire 2-3 fois par jour.",
+      "zonesGeographiques": [
+        "Toute l'Afrique de l'Ouest",
+        "Guinée",
+        "Côte d'Ivoire"
+      ],
+      "informationsEthnobotaniques": "Utilisée traditionnellement pour les bains de bébé. Plantée autour des maisons pour éloigner les moustiques. Les feuilles sont utilisées en cuisine.",
+      "partiesUtilisees": [
+        "Feuilles",
+        "Tiges"
+      ],
+      "precautions": "Généralement sans danger. Éviter l'usage prolongé de l'huile essentielle pure. Peut causer des réactions allergiques chez certaines personnes."
+    },
+    {
+      "nomScientifique": "Aloe vera",
+      "nomPublic": "Aloès, Aloe vera",
+      "nomLocal": "Aloé (Malinké), Alodé (Soussou), Aluwera (Poular)",
+      "description": "Plante grasse vivace formant des rosettes de feuilles épaisses et charnues remplies d'un gel transparent. Cultivée dans les zones semi-arides.",
+      "proprietesMedicinales": [
+        "Cicatrisant",
+        "Anti-inflammatoire",
+        "Hydratant",
+        "Laxatif",
+        "Immunostimulant",
+        "Antioxydant"
+      ],
+      "maladiesTraitees": [
+        "Brûlures",
+        "Plaies",
+        "Problèmes de peau",
+        "Constipation",
+        "Troubles digestifs",
+        "Ulcères"
+      ],
+      "posologie": "Usage externe: appliquer le gel frais directement sur la peau 2-3 fois par jour. Usage interne: 50-100ml de jus pur le matin à jeun (maximum 2 semaines).",
+      "zonesGeographiques": [
+        "Zones côtières de Guinée",
+        "Régions semi-arides"
+      ],
+      "informationsEthnobotaniques": "Le gel est utilisé traditionnellement pour soigner les brûlures et coups de soleil. Considéré comme une plante de beauté pour la peau et les cheveux.",
+      "partiesUtilisees": [
+        "Gel des feuilles",
+        "Latex jaune (usage avec précaution)"
+      ],
+      "precautions": "Le latex peut être irritant et laxatif puissant. Éviter pendant la grossesse et l'allaitement. Ne pas utiliser chez les enfants de moins de 12 ans (usage interne)."
+    },
+    {
+      "nomScientifique": "Carica papaya",
+      "nomPublic": "Papaye, Papayer",
+      "nomLocal": "Papayo (Malinké), Papaya (Soussou), Papay (Poular)",
+      "description": "Arbre fruitier tropical de 3-10 mètres à croissance rapide. Largement cultivé en Guinée pour ses fruits et ses propriétés médicinales.",
+      "proprietesMedicinales": [
+        "Digestif",
+        "Antiparasitaire",
+        "Anti-inflammatoire",
+        "Immunostimulant",
+        "Cicatrisant"
+      ],
+      "maladiesTraitees": [
+        "Troubles digestifs",
+        "Parasites intestinaux",
+        "Paludisme",
+        "Plaies",
+        "Dengue"
+      ],
+      "posologie": "Feuilles: décoction de 5-7 feuilles fraîches dans 1L d'eau, bouillir 10 min. Boire 1 verre 3 fois par jour. Graines: 5-10 graines fraîches à mâcher pour les parasites.",
+      "zonesGeographiques": [
+        "Toute la Guinée",
+        "Zones tropicales d'Afrique de l'Ouest"
+      ],
+      "informationsEthnobotaniques": "Les feuilles de papaye sont utilisées contre le paludisme en Guinée. Le latex du fruit vert attendrit la viande. Les graines sont antiparasitaires puissantes.",
+      "partiesUtilisees": [
+        "Feuilles",
+        "Graines",
+        "Fruits verts",
+        "Latex"
+      ],
+      "precautions": "Les feuilles peuvent diminuer les plaquettes sanguines. Éviter pendant la grossesse (propriétés abortives). Les graines sont très amères."
+    },
+    {
+      "nomScientifique": "Mentha spicata",
+      "nomPublic": "Menthe verte",
+      "nomLocal": "Nanané (Malinké), Nanai (Soussou), Naanae (Poular)",
+      "description": "Plante herbacée vivace aromatique formant des tapis denses. Cultivée dans les zones humides et près des cours d'eau en Guinée.",
+      "proprietesMedicinales": [
+        "Digestif",
+        "Antispasmodique",
+        "Carminatif",
+        "Antiseptique",
+        "Tonique",
+        "Rafraîchissant"
+      ],
+      "maladiesTraitees": [
+        "Troubles digestifs",
+        "Nausées",
+        "Ballonnements",
+        "Maux de tête",
+        "Rhume",
+        "Toux"
+      ],
+      "posologie": "Infusion: 1 cuillère à soupe de feuilles fraîches ou séchées dans une tasse d'eau chaude, infuser 5-10 min. Boire après les repas.",
+      "zonesGeographiques": [
+        "Guinée",
+        "Régions humides d'Afrique de l'Ouest"
+      ],
+      "informationsEthnobotaniques": "Utilisée pour préparer le thé à la menthe, très populaire en Afrique de l'Ouest. Les feuilles fraîches sont mâchées pour rafraîchir l'haleine.",
+      "partiesUtilisees": [
+        "Feuilles"
+      ],
+      "precautions": "Éviter l'huile essentielle pendant la grossesse. Peut aggraver le reflux gastro-œsophagien. Déconseillée chez les jeunes enfants (< 6 ans)."
+    },
+    {
+      "nomScientifique": "Psidium guajava",
+      "nomPublic": "Goyave, Goyavier",
+      "nomLocal": "Gwayabi (Malinké), Goyavier (Soussou), Goyaba (Poular)",
+      "description": "Petit arbre fruitier tropical de 3-10 mètres. Très commun dans les jardins et zones cultivées de Guinée.",
+      "proprietesMedicinales": [
+        "Antidiarrhéique",
+        "Antibactérien",
+        "Hypoglycémiant",
+        "Antioxydant",
+        "Anti-inflammatoire"
+      ],
+      "maladiesTraitees": [
+        "Diarrhée",
+        "Dysenterie",
+        "Diabète",
+        "Maux de dents",
+        "Infections buccales",
+        "Plaies"
+      ],
+      "posologie": "Décoction de feuilles: 5-6 feuilles fraîches dans 500ml d'eau, bouillir 10 min. Boire 3 fois par jour contre la diarrhée. Fruit: consommer 1-2 fruits frais par jour.",
+      "zonesGeographiques": [
+        "Toute la Guinée",
+        "Afrique de l'Ouest"
+      ],
+      "informationsEthnobotaniques": "Les jeunes feuilles sont mâchées pour les problèmes dentaires. Les fruits sont très riches en vitamine C. Utilisé dans les jardins familiaux.",
+      "partiesUtilisees": [
+        "Feuilles",
+        "Fruits",
+        "Écorce"
+      ],
+      "precautions": "Les feuilles peuvent diminuer la glycémie, prudence avec les médicaments antidiabétiques. Utilisation modérée recommandée."
+    },
+    {
+      "nomScientifique": "Ocimum gratissimum",
+      "nomPublic": "Basilic africain",
+      "nomLocal": "Kokonto (Malinké), Kossonto (Soussou), Dodakhi (Poular)",
+      "description": "Arbuste aromatique vivace pouvant atteindre 1-2 mètres. Commun dans toute l'Afrique de l'Ouest, souvent planté près des maisons.",
+      "proprietesMedicinales": [
+        "Antibactérien",
+        "Antifongique",
+        "Antipyrétique",
+        "Antitussif",
+        "Digestif",
+        "Antiseptique"
+      ],
+      "maladiesTraitees": [
+        "Fièvre",
+        "Toux",
+        "Rhume",
+        "Infections respiratoires",
+        "Troubles digestifs",
+        "Paludisme"
+      ],
+      "posologie": "Infusion: 1 poignée de feuilles fraîches dans 1L d'eau chaude, infuser 10 min. Boire 3 fois par jour. Inhalation: vapeur de décoction pour les problèmes respiratoires.",
+      "zonesGeographiques": [
+        "Toute l'Afrique de l'Ouest",
+        "Guinée",
+        "Nigeria",
+        "Cameroun"
+      ],
+      "informationsEthnobotaniques": "Planté autour des maisons pour éloigner les moustiques et les mouches. Utilisé pour les bains de purification. Les feuilles sont utilisées en cuisine.",
+      "partiesUtilisees": [
+        "Feuilles"
+      ],
+      "precautions": "L'huile essentielle doit être utilisée avec précaution. Éviter pendant la grossesse (premier trimestre). Généralement sûr en usage alimentaire."
+    },
+    {
+      "nomScientifique": "Xylopia aethiopica",
+      "nomPublic": "Poivre de Guinée, Poivre noir africain",
+      "nomLocal": "Kani (Malinké), Kéni (Soussou), Djar (Poular)",
+      "description": "Arbre de la forêt tropicale de 15-30 mètres. Les fruits séchés sont utilisés comme épice et médicament en Afrique de l'Ouest.",
+      "proprietesMedicinales": [
+        "Antibactérien",
+        "Antifongique",
+        "Carminatif",
+        "Tonique",
+        "Stimulant digestif",
+        "Expectorant"
+      ],
+      "maladiesTraitees": [
+        "Toux",
+        "Asthme",
+        "Bronchite",
+        "Troubles digestifs",
+        "Coliques",
+        "Parasites intestinaux"
+      ],
+      "posologie": "Décoction: 3-5 fruits broyés dans 500ml d'eau, bouillir 10 min. Boire 1 petit verre 2-3 fois par jour. Poudre: utiliser comme épice dans les aliments.",
+      "zonesGeographiques": [
+        "Guinée Forestière",
+        "Côte d'Ivoire",
+        "Ghana",
+        "Nigeria"
+      ],
+      "informationsEthnobotaniques": "Épice traditionnelle très importante en cuisine ouest-africaine. Utilisé dans les rituels et cérémonies. Les fruits sont mâchés pour les maux de dents.",
+      "partiesUtilisees": [
+        "Fruits",
+        "Graines",
+        "Écorce"
+      ],
+      "precautions": "Utiliser avec modération. Peut être irritant à haute dose. Éviter chez les femmes enceintes et les jeunes enfants."
+    },
+    {
+      "nomScientifique": "Vernonia amygdalina",
+      "nomPublic": "Vernonie amère",
+      "nomLocal": "Foroforo (Malinké), Boloko (Soussou), Ewuro (Poular)",
+      "description": "Arbuste ou petit arbre de 2-5 mètres aux feuilles très amères. Très répandu dans toute l'Afrique tropicale.",
+      "proprietesMedicinales": [
+        "Antipaludéen",
+        "Hypoglycémiant",
+        "Antioxydant",
+        "Vermifuge",
+        "Dépuratif",
+        "Tonique"
+      ],
+      "maladiesTraitees": [
+        "Paludisme",
+        "Diabète",
+        "Fièvre typhoïde",
+        "Parasites intestinaux",
+        "Troubles hépatiques"
+      ],
+      "posologie": "Décoction: 1 poignée de feuilles fraîches dans 1L d'eau, bouillir 15 min. Boire 1 petit verre 3 fois par jour (très amer). Jus: extraire le jus de feuilles fraîches, boire 50ml matin et soir.",
+      "zonesGeographiques": [
+        "Toute l'Afrique de l'Ouest",
+        "Guinée",
+        "Nigeria",
+        "Cameroun"
+      ],
+      "informationsEthnobotaniques": "Les feuilles sont consommées comme légume malgré leur amertume. Considéré comme un puissant remède traditionnel contre le paludisme. L'amertume est considérée comme signe d'efficacité.",
+      "partiesUtilisees": [
+        "Feuilles",
+        "Racines"
+      ],
+      "precautions": "Goût très amer. Peut causer des nausées chez certaines personnes. Éviter pendant la grossesse. Surveiller la glycémie si diabétique."
+    },
+    {
+      "nomScientifique": "Citrus limon",
+      "nomPublic": "Citron, Citronnier",
+      "nomLocal": "Leemoo (Malinké), Lemon (Soussou), Lemon (Poular)",
+      "description": "Petit arbre fruitier de 3-6 mètres. Cultivé dans les zones côtières et les jardins de Guinée.",
+      "proprietesMedicinales": [
+        "Antioxydant",
+        "Antibactérien",
+        "Alcalinisant",
+        "Digestif",
+        "Vitamine C",
+        "Détoxifiant"
+      ],
+      "maladiesTraitees": [
+        "Rhume",
+        "Grippe",
+        "Fatigue",
+        "Problèmes digestifs",
+        "Infections",
+        "Hypertension"
+      ],
+      "posologie": "Jus: presser 1 citron dans un verre d'eau tiède, boire le matin à jeun. Infusion: zeste de citron dans de l'eau chaude. Utilisation quotidienne recommandée.",
+      "zonesGeographiques": [
+        "Zones côtières de Guinée",
+        "Conakry",
+        "Régions humides"
+      ],
+      "informationsEthnobotaniques": "Associé au gingembre et au miel pour les remèdes contre le rhume. Le jus est utilisé pour conserver les aliments. Les feuilles sont utilisées en infusion.",
+      "partiesUtilisees": [
+        "Fruits",
+        "Zeste",
+        "Feuilles"
+      ],
+      "precautions": "Peut augmenter la sensibilité au soleil. Éviter le contact du jus avec les yeux. Peut éroder l'émail dentaire, rincer la bouche après consommation."
+    },
+    {
+      "nomScientifique": "Mangifera indica",
+      "nomPublic": "Manguier",
+      "nomLocal": "Mangoro (Malinké), Manga (Soussou), Manga (Poular)",
+      "description": "Grand arbre fruitier tropical pouvant atteindre 25-40 mètres. Très commun dans toute la Guinée, présent dans presque tous les villages.",
+      "proprietesMedicinales": [
+        "Antidiarrhéique",
+        "Antibactérien",
+        "Hypoglycémiant",
+        "Antioxydant",
+        "Anti-inflammatoire"
+      ],
+      "maladiesTraitees": [
+        "Diarrhée",
+        "Dysenterie",
+        "Diabète",
+        "Hypertension",
+        "Infections buccales",
+        "Saignements"
+      ],
+      "posologie": "Décoction d'écorce: 50g d'écorce dans 1L d'eau, bouillir 20 min. Boire 3 fois par jour contre la diarrhée. Infusion de feuilles: 5-6 jeunes feuilles dans 500ml d'eau.",
+      "zonesGeographiques": [
+        "Toute la Guinée",
+        "Afrique de l'Ouest"
+      ],
+      "informationsEthnobotaniques": "L'écorce est traditionnellement utilisée pour les problèmes intestinaux. Les feuilles jeunes sont utilisées pour les bains. Le fruit est très nutritif et riche en vitamines.",
+      "partiesUtilisees": [
+        "Écorce",
+        "Feuilles",
+        "Noyau"
+      ],
+      "precautions": "La sève peut causer des réactions allergiques chez certaines personnes. L'écorce peut être astringente, utiliser avec modération."
+    },
+    {
+      "nomScientifique": "Anacardium occidentale",
+      "nomPublic": "Anacardier, Cajou",
+      "nomLocal": "Cajou (Malinké), Kaju (Soussou), Kajou (Poular)",
+      "description": "Arbre de taille moyenne de 5-14 mètres produisant la noix de cajou. Cultivé commercialement en Guinée, notamment en Basse Guinée.",
+      "proprietesMedicinales": [
+        "Hypoglycémiant",
+        "Anti-inflammatoire",
+        "Antibactérien",
+        "Astringent",
+        "Antioxydant"
+      ],
+      "maladiesTraitees": [
+        "Diabète",
+        "Diarrhée",
+        "Infections buccales",
+        "Maux de gorge",
+        "Plaies",
+        "Ulcères"
+      ],
+      "posologie": "Décoction d'écorce: 50g dans 1L d'eau, bouillir 15 min. Boire 2-3 fois par jour. Pomme de cajou: consommer fraîche, riche en vitamine C. Noix: 10-15 noix par jour.",
+      "zonesGeographiques": [
+        "Basse Guinée",
+        "Régions côtières",
+        "Boké",
+        "Kindia"
+      ],
+      "informationsEthnobotaniques": "L'écorce et les feuilles sont utilisées pour les soins dentaires. La pomme de cajou donne un jus rafraîchissant. La coque contient une résine caustique utilisée traditionnellement.",
+      "partiesUtilisees": [
+        "Écorce",
+        "Feuilles",
+        "Pomme",
+        "Noix"
+      ],
+      "precautions": "La résine de la coque est très caustique, ne pas toucher. Les noix crues sont toxiques, toujours les griller. Peut causer des allergies."
+    },
+    {
+      "nomScientifique": "Jatropha curcas",
+      "nomPublic": "Pourghère, Jatropha",
+      "nomLocal": "Balaa (Malinké), Balandé (Soussou), Tabanani (Poular)",
+      "description": "Arbuste succulent de 3-5 mètres, résistant à la sécheresse. Utilisé pour les haies vives et la production de biocarburant.",
+      "proprietesMedicinales": [
+        "Purgatif puissant",
+        "Cicatrisant externe",
+        "Antifongique",
+        "Hémostatique"
+      ],
+      "maladiesTraitees": [
+        "Plaies",
+        "Brûlures",
+        "Infections cutanées",
+        "Constipation sévère (usage limité)"
+      ],
+      "posologie": "USAGE EXTERNE UNIQUEMENT en général. Latex: appliquer directement sur les plaies pour arrêter les saignements. Décoction de feuilles pour bains antiseptiques.",
+      "zonesGeographiques": [
+        "Toute la Guinée",
+        "Zones semi-arides"
+      ],
+      "informationsEthnobotaniques": "Planté en haies pour délimiter les propriétés. Le latex est utilisé pour les plaies. Les graines sont très toxiques mais utilisées pour faire du savon traditionnel.",
+      "partiesUtilisees": [
+        "Latex",
+        "Feuilles",
+        "Huile des graines (usage externe)"
+      ],
+      "precautions": "TOXIQUE par voie interne. Ne jamais ingérer les graines. Le latex peut être irritant. Utiliser avec grande précaution. Consulter un praticien."
+    },
+    {
+      "nomScientifique": "Cassia alata",
+      "nomPublic": "Dartrier, Casse ailée",
+      "nomLocal": "Kantindja (Malinké), Kantinja (Soussou), Barkiwi (Poular)",
+      "description": "Arbuste de 2-4 mètres aux grandes feuilles composées et aux fleurs jaunes en épis dressés. Commun dans les zones humides.",
+      "proprietesMedicinales": [
+        "Antifongique puissant",
+        "Laxatif",
+        "Antibactérien",
+        "Antiparasitaire"
+      ],
+      "maladiesTraitees": [
+        "Mycoses cutanées",
+        "Teigne",
+        "Gale",
+        "Eczéma",
+        "Constipation",
+        "Parasites intestinaux"
+      ],
+      "posologie": "Usage externe: écraser des feuilles fraîches, appliquer la pâte sur les zones affectées 2 fois par jour. Décoction: 5-6 feuilles dans 500ml d'eau, appliquer en compresses.",
+      "zonesGeographiques": [
+        "Toute l'Afrique de l'Ouest",
+        "Zones humides de Guinée"
+      ],
+      "informationsEthnobotaniques": "Appelé 'dartrier' pour son efficacité contre les dartres et mycoses. Très populaire en médecine traditionnelle pour les problèmes de peau.",
+      "partiesUtilisees": [
+        "Feuilles",
+        "Fleurs",
+        "Graines"
+      ],
+      "precautions": "Usage interne limité car laxatif puissant. Peut colorer la peau temporairement. Éviter pendant la grossesse (usage interne)."
+    },
+    {
+      "nomScientifique": "Senna occidentalis",
+      "nomPublic": "Café nègre, Séné occidental",
+      "nomLocal": "Sè forôta (Malinké), Kassey (Soussou), Ruda (Poular)",
+      "description": "Plante herbacée annuelle ou sous-arbuste de 0,5-1,5 mètres. Commune comme mauvaise herbe dans les cultures et friches.",
+      "proprietesMedicinales": [
+        "Laxatif",
+        "Vermifuge",
+        "Fébrifuge",
+        "Antipaludéen",
+        "Tonique"
+      ],
+      "maladiesTraitees": [
+        "Constipation",
+        "Paludisme",
+        "Fièvre",
+        "Parasites intestinaux",
+        "Troubles digestifs"
+      ],
+      "posologie": "Décoction de feuilles: 1 poignée dans 1L d'eau, bouillir 10 min. Boire 1 verre 2-3 fois par jour. Graines grillées: utilisées comme substitut de café.",
+      "zonesGeographiques": [
+        "Toute l'Afrique de l'Ouest",
+        "Guinée"
+      ],
+      "informationsEthnobotaniques": "Les graines grillées et moulues sont utilisées comme café local. Les feuilles sont utilisées contre le paludisme dans plusieurs régions.",
+      "partiesUtilisees": [
+        "Feuilles",
+        "Graines",
+        "Racines"
+      ],
+      "precautions": "Les graines crues sont toxiques. Effet laxatif, ne pas utiliser en cas de diarrhée. Éviter pendant la grossesse et l'allaitement."
+    },
+    {
+      "nomScientifique": "Ricinus communis",
+      "nomPublic": "Ricin",
+      "nomLocal": "Kpatama (Malinké), Kpatama (Soussou), Lindihi (Poular)",
+      "description": "Grande plante herbacée ou arbustive de 2-12 mètres aux grandes feuilles palmées. Cultivée pour l'huile de ricin.",
+      "proprietesMedicinales": [
+        "Laxatif puissant (huile)",
+        "Anti-inflammatoire externe",
+        "Galactagogue"
+      ],
+      "maladiesTraitees": [
+        "Constipation sévère",
+        "Douleurs articulaires",
+        "Problèmes de peau",
+        "Accouchement difficile"
+      ],
+      "posologie": "Huile de ricin: 15-30ml à jeun pour constipation (usage occasionnel). Usage externe: appliquer l'huile sur les zones douloureuses en massage. Feuilles chauffées: cataplasme pour les inflammations.",
+      "zonesGeographiques": [
+        "Toute la Guinée",
+        "Cultivé et sauvage"
+      ],
+      "informationsEthnobotaniques": "L'huile est utilisée pour faciliter l'accouchement. Les feuilles chauffées sont appliquées sur le ventre des mères après accouchement. Les graines sont utilisées pour faire du savon.",
+      "partiesUtilisees": [
+        "Graines (huile)",
+        "Feuilles"
+      ],
+      "precautions": "Les graines sont TRÈS TOXIQUES, ne jamais les mâcher ou avaler. Utiliser uniquement l'huile extraite. Éviter pendant la grossesse (sauf sous supervision)."
+    },
+    {
+      "nomScientifique": "Terminalia catappa",
+      "nomPublic": "Badamier, Amandier tropical",
+      "nomLocal": "Amandia (Malinké), Amandié (Soussou), Lawal (Poular)",
+      "description": "Grand arbre de 15-25 mètres aux branches étagées horizontalement. Commun dans les zones côtières et urbaines de Guinée.",
+      "proprietesMedicinales": [
+        "Antioxydant",
+        "Hépatoprotecteur",
+        "Antibactérien",
+        "Anti-inflammatoire",
+        "Hypoglycémiant"
+      ],
+      "maladiesTraitees": [
+        "Troubles hépatiques",
+        "Diabète",
+        "Hypertension",
+        "Infections",
+        "Diarrhée"
+      ],
+      "posologie": "Infusion de feuilles: 5-6 feuilles séchées dans 1L d'eau chaude, infuser 15 min. Boire 2-3 tasses par jour. Les amandes peuvent être consommées grillées.",
+      "zonesGeographiques": [
+        "Zones côtières de Guinée",
+        "Conakry",
+        "Régions urbaines"
+      ],
+      "informationsEthnobotaniques": "Arbre d'ombrage très apprécié. Les feuilles tombées sont utilisées en aquariophilie pour leurs propriétés bénéfiques. Les amandes sont comestibles.",
+      "partiesUtilisees": [
+        "Feuilles",
+        "Écorce",
+        "Amandes"
+      ],
+      "precautions": "Généralement sans danger. Peut diminuer la glycémie, surveillance recommandée pour les diabétiques."
+    },
+    {
+      "nomScientifique": "Parkia biglobosa",
+      "nomPublic": "Néré, Arbre à soumbala",
+      "nomLocal": "Néré (Malinké), Nété (Soussou), Netetu (Poular)",
+      "description": "Grand arbre de 7-20 mètres aux inflorescences pendantes rouge-brun. Très important économiquement et culturellement.",
+      "proprietesMedicinales": [
+        "Hypotenseur",
+        "Hypoglycémiant",
+        "Antioxydant",
+        "Fortifiant",
+        "Digestif"
+      ],
+      "maladiesTraitees": [
+        "Hypertension",
+        "Diabète",
+        "Malnutrition",
+        "Troubles digestifs",
+        "Anémie"
+      ],
+      "posologie": "Graines fermentées (soumbala): utiliser en cuisine quotidiennement. Décoction d'écorce: 50g dans 1L d'eau pour l'hypertension. Pulpe du fruit: consommer fraîche.",
+      "zonesGeographiques": [
+        "Savanes de Guinée",
+        "Mali",
+        "Burkina Faso",
+        "Sénégal"
+      ],
+      "informationsEthnobotaniques": "Les graines fermentées (soumbala) sont un condiment essentiel en cuisine ouest-africaine. La pulpe jaune du fruit est sucrée et nutritive. Arbre protégé et respecté.",
+      "partiesUtilisees": [
+        "Graines",
+        "Pulpe du fruit",
+        "Écorce",
+        "Feuilles"
+      ],
+      "precautions": "Le soumbala doit être bien fermenté. Prudence avec les médicaments hypotenseurs et antidiabétiques."
+    },
+    {
+      "nomScientifique": "Adansonia digitata",
+      "nomPublic": "Baobab",
+      "nomLocal": "Sira (Malinké), Kira (Soussou), Bokki (Poular)",
+      "description": "Arbre majestueux pouvant atteindre 25 mètres de haut et vivre plus de 1000 ans. Tronc massif, considéré comme arbre sacré.",
+      "proprietesMedicinales": [
+        "Antioxydant",
+        "Anti-inflammatoire",
+        "Antidiarrhéique",
+        "Antipyrétique",
+        "Immunostimulant",
+        "Nutritif"
+      ],
+      "maladiesTraitees": [
+        "Diarrhée",
+        "Fièvre",
+        "Infections",
+        "Malnutrition",
+        "Fatigue",
+        "Douleurs"
+      ],
+      "posologie": "Poudre de pulpe: 1-2 cuillères à soupe dans de l'eau ou du lait, 1-2 fois par jour. Décoction de feuilles: 1 poignée dans 1L d'eau contre la diarrhée.",
+      "zonesGeographiques": [
+        "Savanes de Guinée",
+        "Haute Guinée",
+        "Toute l'Afrique de l'Ouest"
+      ],
+      "informationsEthnobotaniques": "Arbre sacré dans de nombreuses cultures. La pulpe est très riche en vitamine C. Les feuilles séchées (lalo) sont un légume important. Les graines donnent une huile comestible.",
+      "partiesUtilisees": [
+        "Pulpe du fruit",
+        "Feuilles",
+        "Graines",
+        "Écorce"
+      ],
+      "precautions": "Généralement très sûr. La pulpe est très acide, peut causer des troubles digestifs en excès."
+    },
+    {
+      "nomScientifique": "Annona senegalensis",
+      "nomPublic": "Pomme cannelle du Sénégal, Anone du Sénégal",
+      "nomLocal": "Sounsoun (Malinké), Sunsum gbeni (Soussou), Dukuduku (Poular)",
+      "description": "Arbuste ou petit arbre de 2-6 mètres aux fruits comestibles orangés à maturité. Commun dans les savanes de Guinée.",
+      "proprietesMedicinales": [
+        "Antipaludéen",
+        "Analgésique",
+        "Anti-inflammatoire",
+        "Antiparasitaire"
+      ],
+      "maladiesTraitees": [
+        "Paludisme",
+        "Douleurs",
+        "Fièvre",
+        "Parasites intestinaux",
+        "Maux de tête"
+      ],
+      "posologie": "Décoction de racines: 50g dans 1L d'eau, bouillir 15 min. Boire 2-3 fois par jour contre le paludisme. Fruits: consommer mûrs, nutritifs.",
+      "zonesGeographiques": [
+        "Savanes de Guinée",
+        "Haute Guinée",
+        "Afrique de l'Ouest"
+      ],
+      "informationsEthnobotaniques": "Les fruits sont très appréciés des enfants. Les racines sont un remède traditionnel important contre le paludisme. Les feuilles sont parfois utilisées pour les maux de tête.",
+      "partiesUtilisees": [
+        "Racines",
+        "Feuilles",
+        "Fruits"
+      ],
+      "precautions": "Les racines sont puissantes, respecter les doses. Éviter pendant la grossesse. Les graines peuvent être toxiques."
+    },
+    {
+      "nomScientifique": "Guiera senegalensis",
+      "nomPublic": "Guiera, Nguer",
+      "nomLocal": "Kalawara (Malinké), Kelawara (Soussou), Geloki (Poular)",
+      "description": "Arbuste buissonnant de 1-3 mètres, très commun dans les savanes sahéliennes. Forme souvent des peuplements denses.",
+      "proprietesMedicinales": [
+        "Antitussif",
+        "Expectorant",
+        "Fébrifuge",
+        "Antibactérien",
+        "Antipaludéen"
+      ],
+      "maladiesTraitees": [
+        "Toux",
+        "Bronchite",
+        "Infections respiratoires",
+        "Paludisme",
+        "Fièvre",
+        "Maux de gorge"
+      ],
+      "posologie": "Décoction de feuilles: 2 poignées dans 1L d'eau, bouillir 10 min. Boire 3 fois par jour contre la toux. Inhalation: respirer la vapeur de la décoction.",
+      "zonesGeographiques": [
+        "Savanes de Guinée",
+        "Mali",
+        "Sénégal",
+        "Niger"
+      ],
+      "informationsEthnobotaniques": "Très utilisé pour les affections respiratoires dans toute la région sahélienne. Les branches sont utilisées pour délimiter les champs. La fumée des feuilles brûlées éloigne les moustiques.",
+      "partiesUtilisees": [
+        "Feuilles",
+        "Racines",
+        "Écorce"
+      ],
+      "precautions": "Généralement sûr aux doses recommandées. Éviter les doses élevées prolongées."
+    },
+    {
+      "nomScientifique": "Detarium senegalense",
+      "nomPublic": "Ditakh, Dattier du Sénégal",
+      "nomLocal": "Tamba (Malinké), Tambandou (Soussou), Tobi (Poular)",
+      "description": "Arbre de 10-20 mètres aux fruits comestibles à pulpe verte farineuse et sucrée-acidulée.",
+      "proprietesMedicinales": [
+        "Antidiarrhéique",
+        "Antibactérien",
+        "Antioxydant",
+        "Nutritif"
+      ],
+      "maladiesTraitees": [
+        "Diarrhée",
+        "Dysenterie",
+        "Infections intestinales",
+        "Malnutrition"
+      ],
+      "posologie": "Décoction d'écorce: 50g dans 1L d'eau, bouillir 20 min. Boire 3 fois par jour contre la diarrhée. Pulpe du fruit: consommer fraîche, très nutritive.",
+      "zonesGeographiques": [
+        "Savanes de Guinée",
+        "Sénégal",
+        "Mali"
+      ],
+      "informationsEthnobotaniques": "Les fruits sont très appréciés et vendus sur les marchés. La pulpe est utilisée pour faire des boissons rafraîchissantes. L'écorce est un remède traditionnel contre la diarrhée.",
+      "partiesUtilisees": [
+        "Écorce",
+        "Fruits"
+      ],
+      "precautions": "Généralement sûr. L'écorce est très astringente, utiliser avec modération."
+    },
+    {
+      "nomScientifique": "Sclerocarya birrea",
+      "nomPublic": "Marula, Prunier d'Afrique",
+      "nomLocal": "Ngona (Malinké), Ngunè (Soussou), Bèri (Poular)",
+      "description": "Arbre de taille moyenne de 9-18 mètres produisant des fruits jaunâtres comestibles. Important arbre fruitier en Afrique australe et sahélienne.",
+      "proprietesMedicinales": [
+        "Antidiarrhéique",
+        "Antibactérien",
+        "Antioxydant",
+        "Anti-inflammatoire"
+      ],
+      "maladiesTraitees": [
+        "Diarrhée",
+        "Dysenterie",
+        "Infections",
+        "Plaies"
+      ],
+      "posologie": "Décoction d'écorce: 50g dans 1L d'eau pour la diarrhée. Fruits: consommer frais. Huile des noyaux: application externe pour la peau.",
+      "zonesGeographiques": [
+        "Savanes de Guinée",
+        "Afrique australe et orientale"
+      ],
+      "informationsEthnobotaniques": "Les fruits sont fermentés pour faire une boisson alcoolisée traditionnelle. L'huile des noyaux est utilisée en cosmétique. Arbre protégé dans plusieurs régions.",
+      "partiesUtilisees": [
+        "Écorce",
+        "Fruits",
+        "Noyaux (huile)"
+      ],
+      "precautions": "L'écorce est astringente. Les fruits fermentés contiennent de l'alcool."
+    },
+    {
+      "nomScientifique": "Vitellaria paradoxa",
+      "nomPublic": "Karité",
+      "nomLocal": "Si (Malinké), Tè (Soussou), Karé (Poular)",
+      "description": "Arbre de 10-15 mètres produisant les noix de karité dont on extrait le beurre. Arbre protégé, d'importance économique majeure.",
+      "proprietesMedicinales": [
+        "Cicatrisant",
+        "Anti-inflammatoire",
+        "Hydratant",
+        "Antioxydant",
+        "Protecteur cutané"
+      ],
+      "maladiesTraitees": [
+        "Problèmes de peau",
+        "Brûlures",
+        "Plaies",
+        "Douleurs articulaires",
+        "Rhumatismes"
+      ],
+      "posologie": "Beurre de karité: appliquer directement sur la peau 2-3 fois par jour. Huile: massage des zones douloureuses. Usage alimentaire possible.",
+      "zonesGeographiques": [
+        "Savanes de Guinée",
+        "Mali",
+        "Burkina Faso",
+        "Ghana"
+      ],
+      "informationsEthnobotaniques": "Le beurre de karité est un produit d'exportation important. Utilisé traditionnellement pour protéger la peau du soleil et du vent. Les amandes sont comestibles.",
+      "partiesUtilisees": [
+        "Noix (beurre)",
+        "Écorce"
+      ],
+      "precautions": "Généralement très sûr. Rares allergies au beurre de karité."
+    },
+    {
+      "nomScientifique": "Euphorbia hirta",
+      "nomPublic": "Euphorbe hirte, Malnommée",
+      "nomLocal": "Korofé (Malinké), Sorofé (Soussou), Noniiri (Poular)",
+      "description": "Petite plante herbacée annuelle de 10-50 cm, velue, à latex blanc. Très commune comme mauvaise herbe.",
+      "proprietesMedicinales": [
+        "Antiasthmatique",
+        "Expectorant",
+        "Antidiarrhéique",
+        "Galactagogue",
+        "Antibactérien"
+      ],
+      "maladiesTraitees": [
+        "Asthme",
+        "Bronchite",
+        "Diarrhée",
+        "Dysenterie",
+        "Infections",
+        "Insuffisance lactée"
+      ],
+      "posologie": "Infusion de plante entière: 1 poignée dans 500ml d'eau chaude, infuser 10 min. Boire 2-3 fois par jour. Suc frais: quelques gouttes contre l'asthme.",
+      "zonesGeographiques": [
+        "Toute l'Afrique de l'Ouest",
+        "Commune partout"
+      ],
+      "informationsEthnobotaniques": "Plante médicinale très utilisée malgré son statut de mauvaise herbe. Le latex peut être irritant mais est utilisé pour certains problèmes de peau.",
+      "partiesUtilisees": [
+        "Plante entière",
+        "Latex"
+      ],
+      "precautions": "Le latex peut être irritant pour la peau. Utiliser avec précaution. Éviter en cas de grossesse."
+    },
+    {
+      "nomScientifique": "Phyllanthus amarus",
+      "nomPublic": "Phyllante amer",
+      "nomLocal": "Soroblan (Malinké), Sorobla (Soussou), Geske guiya (Poular)",
+      "description": "Petite plante herbacée annuelle de 20-50 cm aux feuilles mimant des feuilles composées. Commune dans les lieux humides.",
+      "proprietesMedicinales": [
+        "Hépatoprotecteur",
+        "Antiviral",
+        "Diurétique",
+        "Hypoglycémiant",
+        "Antipaludéen"
+      ],
+      "maladiesTraitees": [
+        "Jaunisse",
+        "Hépatite",
+        "Infections urinaires",
+        "Diabète",
+        "Paludisme",
+        "Calculs rénaux"
+      ],
+      "posologie": "Décoction de plante entière: 2 poignées dans 1L d'eau, bouillir 10 min. Boire 2-3 fois par jour. Utilisation de 1-2 semaines recommandée.",
+      "zonesGeographiques": [
+        "Toute l'Afrique de l'Ouest",
+        "Zones humides"
+      ],
+      "informationsEthnobotaniques": "Très réputé pour traiter l'hépatite et la jaunisse en médecine traditionnelle. Goût amer caractéristique. Utilisé aussi contre les morsures de serpent.",
+      "partiesUtilisees": [
+        "Plante entière"
+      ],
+      "precautions": "Peut diminuer la glycémie, surveillance pour diabétiques. Généralement sûr aux doses recommandées."
+    },
+    {
+      "nomScientifique": "Acacia nilotica",
+      "nomPublic": "Acacia du Nil, Gommier rouge",
+      "nomLocal": "Balambalanko (Malinké), Nébé (Soussou), Baramako (Poular)",
+      "description": "Arbre épineux de 5-20 mètres produisant une gomme. Caractéristique des savanes sèches.",
+      "proprietesMedicinales": [
+        "Astringent",
+        "Antibactérien",
+        "Antidiarrhéique",
+        "Cicatrisant",
+        "Antiseptique"
+      ],
+      "maladiesTraitees": [
+        "Diarrhée",
+        "Dysenterie",
+        "Plaies",
+        "Infections buccales",
+        "Saignements"
+      ],
+      "posologie": "Décoction d'écorce ou de gousses: 50g dans 1L d'eau, bouillir 15 min. Boire 3 fois par jour contre la diarrhée. Gomme: dissoudre dans l'eau comme boisson.",
+      "zonesGeographiques": [
+        "Savanes sèches de Guinée",
+        "Sahel",
+        "Afrique de l'Est"
+      ],
+      "informationsEthnobotaniques": "La gomme arabique est récoltée commercialement. L'écorce est utilisée pour le tannage. Les gousses sont données au bétail.",
+      "partiesUtilisees": [
+        "Écorce",
+        "Gousses",
+        "Gomme",
+        "Feuilles"
+      ],
+      "precautions": "Très astringent, ne pas utiliser en cas de constipation. Peut colorer les dents."
+    },
+    {
+      "nomScientifique": "Bridelia ferruginea",
+      "nomPublic": "Bridélie ferrugineuse",
+      "nomLocal": "Kègnè (Malinké), Kounoun (Soussou), Ceerno (Poular)",
+      "description": "Arbre de 5-25 mètres à jeunes rameaux rougeâtres ferrugineuxcubrant. Commun dans les forêts et savanes.",
+      "proprietesMedicinales": [
+        "Antibactérien",
+        "Antidiabétique",
+        "Antipaludéen",
+        "Antitussif"
+      ],
+      "maladiesTraitees": [
+        "Toux",
+        "Infections respiratoires",
+        "Diabète",
+        "Paludisme",
+        "Infections"
+      ],
+      "posologie": "Décoction d'écorce ou de racines: 50g dans 1L d'eau, bouillir 15 min. Boire 2-3 fois par jour.",
+      "zonesGeographiques": [
+        "Forêts de Guinée",
+        "Savanes",
+        "Afrique de l'Ouest"
+      ],
+      "informationsEthnobotaniques": "L'écorce est très utilisée contre les problèmes respiratoires. Les fruits sont comestibles mais astringents.",
+      "partiesUtilisees": [
+        "Écorce",
+        "Racines",
+        "Feuilles"
+      ],
+      "precautions": "Respecter les doses. Peut diminuer la glycémie."
+    },
+    {
+      "nomScientifique": "Sterculia setigera",
+      "nomPublic": "Sterculia sétifère",
+      "nomLocal": "Kongorosso (Malinké), Kongoroso (Soussou), Kukki (Poular)",
+      "description": "Arbre de 10-20 mètres au tronc épineux dans le jeune âge. Produit une gomme comestible.",
+      "proprietesMedicinales": [
+        "Antitussif",
+        "Expectorant",
+        "Émollient",
+        "Laxatif doux"
+      ],
+      "maladiesTraitees": [
+        "Toux",
+        "Bronchite",
+        "Maux de gorge",
+        "Constipation",
+        "Infections respiratoires"
+      ],
+      "posologie": "Gomme: dissoudre 10-20g dans de l'eau tiède, boire 2-3 fois par jour. Décoction d'écorce pour usage externe.",
+      "zonesGeographiques": [
+        "Savanes de Guinée",
+        "Mali",
+        "Sénégal"
+      ],
+      "informationsEthnobotaniques": "La gomme est récoltée et vendue sur les marchés. Utilisée pour apaiser les maux de gorge. Les graines donnent une huile comestible.",
+      "partiesUtilisees": [
+        "Gomme",
+        "Écorce",
+        "Graines"
+      ],
+      "precautions": "Généralement très sûr. La gomme peut être laxative en grande quantité."
+    },
+    {
+      "nomScientifique": "Khaya senegalensis",
+      "nomPublic": "Caïlcédrat, Acajou du Sénégal",
+      "nomLocal": "Jala (Malinké), Kayo (Soussou), Kahi (Poular)",
+      "description": "Grand arbre de 15-30 mètres à bois rouge précieux. Important arbre forestier d'Afrique de l'Ouest.",
+      "proprietesMedicinales": [
+        "Antipaludéen",
+        "Fébrifuge",
+        "Astringent",
+        "Vermifuge",
+        "Tonique"
+      ],
+      "maladiesTraitees": [
+        "Paludisme",
+        "Fièvre",
+        "Diarrhée",
+        "Parasites intestinaux",
+        "Infections"
+      ],
+      "posologie": "Décoction d'écorce: 50g dans 1L d'eau, bouillir 20 min. Boire 2-3 fois par jour contre le paludisme. Très amer.",
+      "zonesGeographiques": [
+        "Savanes de Guinée",
+        "Sénégal",
+        "Mali",
+        "Afrique de l'Ouest"
+      ],
+      "informationsEthnobotaniques": "Le bois est très prisé pour l'ébénisterie. L'écorce est un remède antipaludéen traditionnel important. Les jeunes plants sont protégés.",
+      "partiesUtilisees": [
+        "Écorce",
+        "Feuilles"
+      ],
+      "precautions": "Très amer. Peut causer des nausées chez certaines personnes. Respecter les doses."
+    },
+    {
+      "nomScientifique": "Pterocarpus erinaceus",
+      "nomPublic": "Vène, Palissandre du Sénégal",
+      "nomLocal": "Gueleni (Malinké), Barè (Soussou), Bani (Poular)",
+      "description": "Arbre de 10-15 mètres à bois rouge précieux. Espèce menacée par la surexploitation forestière.",
+      "proprietesMedicinales": [
+        "Antipaludéen",
+        "Antidiarrhéique",
+        "Cicatrisant",
+        "Tonique"
+      ],
+      "maladiesTraitees": [
+        "Paludisme",
+        "Diarrhée",
+        "Plaies",
+        "Anémie",
+        "Fatigue"
+      ],
+      "posologie": "Décoction d'écorce: 50g dans 1L d'eau, bouillir 15 min. Boire 2-3 fois par jour. Usage externe pour les plaies.",
+      "zonesGeographiques": [
+        "Savanes de Guinée",
+        "Sahel",
+        "Afrique de l'Ouest"
+      ],
+      "informationsEthnobotaniques": "Le bois est précieux pour la sculpture et l'ébénisterie. L'écorce rouge est utilisée traditionnellement pour ses propriétés médicinales. Arbre protégé.",
+      "partiesUtilisees": [
+        "Écorce",
+        "Feuilles"
+      ],
+      "precautions": "Utiliser avec modération. Espèce menacée, privilégier d'autres alternatives si possible."
+    },
+    {
+      "nomScientifique": "Lannea acida",
+      "nomPublic": "Raisinier sauvage",
+      "nomLocal": "Sunpèn (Malinké), Sumbè (Soussou), Konkolo (Poular)",
+      "description": "Arbre de 6-15 mètres produisant des fruits acidulés comestibles. Commun dans les savanes.",
+      "proprietesMedicinales": [
+        "Antidiarrhéique",
+        "Antibactérien",
+        "Tonique",
+        "Nutritif"
+      ],
+      "maladiesTraitees": [
+        "Diarrhée",
+        "Dysenterie",
+        "Fatigue",
+        "Anémie"
+      ],
+      "posologie": "Décoction d'écorce: 50g dans 1L d'eau contre la diarrhée. Fruits: consommer frais, riches en vitamine C.",
+      "zonesGeographiques": [
+        "Savanes de Guinée",
+        "Sahel"
+      ],
+      "informationsEthnobotaniques": "Les fruits sont vendus sur les marchés locaux. L'écorce est astringente et utilisée traditionnellement.",
+      "partiesUtilisees": [
+        "Écorce",
+        "Fruits",
+        "Racines"
+      ],
+      "precautions": "Généralement sûr. L'écorce est astringente."
+    },
+    {
+      "nomScientifique": "Diospyros mespiliformis",
+      "nomPublic": "Ébénier d'Afrique, Kaki de brousse",
+      "nomLocal": "Sunsum (Malinké), Kalan (Soussou), Aluwa (Poular)",
+      "description": "Arbre de 15-25 mètres produisant des fruits noirs comestibles à maturité. Bois très dur et noir.",
+      "proprietesMedicinales": [
+        "Antipaludéen",
+        "Astringent",
+        "Antibactérien",
+        "Antioxydant"
+      ],
+      "maladiesTraitees": [
+        "Paludisme",
+        "Diarrhée",
+        "Infections",
+        "Maux de dents"
+      ],
+      "posologie": "Décoction de racines ou d'écorce: 50g dans 1L d'eau. Fruits mûrs: consommer frais, nutritifs.",
+      "zonesGeographiques": [
+        "Savanes et forêts de Guinée",
+        "Afrique de l'Ouest"
+      ],
+      "informationsEthnobotaniques": "Le bois noir est précieux pour la sculpture. Les fruits sont très appréciés. Les racines sont antipaludéennes traditionnelles.",
+      "partiesUtilisees": [
+        "Racines",
+        "Écorce",
+        "Fruits"
+      ],
+      "precautions": "Les racines sont puissantes. Les fruits immatures sont astringents."
+    },
+    {
+      "nomScientifique": "Securidaca longepedunculata",
+      "nomPublic": "Sécuridaca",
+      "nomLocal": "Zègèlèn (Malinké), Segele (Soussou), Uwar magunguna (Poular)",
+      "description": "Arbuste ou petit arbre de 2-6 mètres aux racines aromatiques. Très utilisé en médecine traditionnelle.",
+      "proprietesMedicinales": [
+        "Antipaludéen",
+        "Expectorant",
+        "Analgésique",
+        "Tonique"
+      ],
+      "maladiesTraitees": [
+        "Paludisme",
+        "Toux",
+        "Rhumatismes",
+        "Maux de tête",
+        "Douleurs"
+      ],
+      "posologie": "Décoction de racines: 20-30g dans 1L d'eau (très puissant). Utiliser avec prudence.",
+      "zonesGeographiques": [
+        "Savanes de Guinée",
+        "Afrique de l'Ouest et australe"
+      ],
+      "informationsEthnobotaniques": "Les racines ont une odeur caractéristique de salicylate de méthyle. Utilisé traditionnellement contre le paludisme et les douleurs.",
+      "partiesUtilisees": [
+        "Racines",
+        "Écorce"
+      ],
+      "precautions": "TOXIQUE à forte dose. Utiliser uniquement sous supervision d'un praticien. Peut causer des vomissements."
+    },
+    {
+      "nomScientifique": "Ficus exasperata",
+      "nomPublic": "Figuier rugueux",
+      "nomLocal": "Toro (Malinké), Kaba (Soussou), Dumii (Poular)",
+      "description": "Arbre de 5-15 mètres aux feuilles très rugueuses comme du papier de verre. Commun dans les forêts.",
+      "proprietesMedicinales": [
+        "Antibactérien",
+        "Antifongique",
+        "Cicatrisant",
+        "Vermifuge"
+      ],
+      "maladiesTraitees": [
+        "Plaies",
+        "Infections cutanées",
+        "Mycoses",
+        "Parasites intestinaux"
+      ],
+      "posologie": "Les feuilles rugueuses sont utilisées pour nettoyer les plaies. Décoction: usage interne pour les parasites.",
+      "zonesGeographiques": [
+        "Forêts de Guinée",
+        "Afrique de l'Ouest"
+      ],
+      "informationsEthnobotaniques": "Les feuilles rugueuses servent traditionnellement à polir les ustensiles et nettoyer les plaies. Le latex est utilisé pour certaines affections cutanées.",
+      "partiesUtilisees": [
+        "Feuilles",
+        "Latex",
+        "Écorce"
+      ],
+      "precautions": "Le latex peut être irritant. Tester d'abord sur une petite surface."
+    }
+  ],
+  "tradipraticiens": [
+    {
+      "id": "TRAD001",
+      "name": "Ousmane Cissé",
+      "location": "N'Zérékoré",
+      "experience": "Plus de 35 ans",
+      "specialty": "Soins des enfants",
+      "phone": "+224 670 34 51 97",
+      "rating": 4.8,
+      "reviews": 216,
+      "imageUrl": "https://images.unsplash.com/photo-1588865604-211243"
+    },
+    {
+      "id": "TRAD002",
+      "name": "Fanta Keita",
+      "location": "Conakry",
+      "experience": "Plus de 35 ans",
+      "specialty": "Soins des femmes enceintes",
+      "phone": "+224 647 63 22 15",
+      "rating": 4.4,
+      "reviews": 120,
+      "imageUrl": "https://images.unsplash.com/photo-1522673518-301192"
+    },
+    {
+      "id": "TRAD003",
+      "name": "Fatoumata Condé",
+      "location": "Télimélé",
+      "experience": "30 ans",
+      "specialty": "Douleurs articulaires",
+      "phone": "+224 697 70 14 37",
+      "rating": 4.9,
+      "reviews": 101,
+      "imageUrl": "https://images.unsplash.com/photo-1633568489-595926"
+    },
+    {
+      "id": "TRAD004",
+      "name": "Aissatou Traoré",
+      "location": "Dalaba",
+      "experience": "10 ans",
+      "specialty": "Traitement du paludisme",
+      "phone": "+224 662 61 26 35",
+      "rating": 4.4,
+      "reviews": 70,
+      "imageUrl": "https://images.unsplash.com/photo-1559222907-632300"
+    },
+    {
+      "id": "TRAD005",
+      "name": "Fatoumata Konaté",
+      "location": "Kissidougou",
+      "experience": "Plus de 35 ans",
+      "specialty": "Soins des femmes enceintes",
+      "phone": "+224 682 30 80 51",
+      "rating": 4.8,
+      "reviews": 211,
+      "imageUrl": "https://images.unsplash.com/photo-1608562650-941822"
+    },
+    {
+      "id": "TRAD006",
+      "name": "Hadja Diallo",
+      "location": "Télimélé",
+      "experience": "30 ans",
+      "specialty": "Soins des femmes enceintes",
+      "phone": "+224 646 14 11 85",
+      "rating": 4.6,
+      "reviews": 237,
+      "imageUrl": "https://images.unsplash.com/photo-1698036668-906809"
+    },
+    {
+      "id": "TRAD007",
+      "name": "Kadiatou Barry",
+      "location": "Mamou",
+      "experience": "15 ans",
+      "specialty": "Diabète et hypertension",
+      "phone": "+224 693 62 34 16",
+      "rating": 4.9,
+      "reviews": 36,
+      "imageUrl": "https://images.unsplash.com/photo-1650650459-852419"
+    },
+    {
+      "id": "TRAD008",
+      "name": "Ibrahima Sow",
+      "location": "Boké",
+      "experience": "20 ans",
+      "specialty": "Douleurs articulaires",
+      "phone": "+224 638 81 62 86",
+      "rating": 4.5,
+      "reviews": 197,
+      "imageUrl": "https://images.unsplash.com/photo-1648533813-397412"
+    },
+    {
+      "id": "TRAD009",
+      "name": "Souleymane Camara",
+      "location": "Kankan",
+      "experience": "20 ans",
+      "specialty": "Soins des enfants",
+      "phone": "+224 691 64 52 12",
+      "rating": 3.8,
+      "reviews": 161,
+      "imageUrl": "https://images.unsplash.com/photo-1629402663-622431"
+    },
+    {
+      "id": "TRAD010",
+      "name": "Amadou Baldé",
+      "location": "Macenta",
+      "experience": "10 ans",
+      "specialty": "Soins des femmes enceintes",
+      "phone": "+224 686 25 28 30",
+      "rating": 4.2,
+      "reviews": 238,
+      "imageUrl": "https://images.unsplash.com/photo-1685135744-192336"
+    },
+    {
+      "id": "TRAD011",
+      "name": "Boubacar Keita",
+      "location": "Labé",
+      "experience": "Plus de 35 ans",
+      "specialty": "Traitement du paludisme",
+      "phone": "+224 638 61 30 51",
+      "rating": 5.0,
+      "reviews": 101,
+      "imageUrl": "https://images.unsplash.com/photo-1643668030-334754"
+    },
+    {
+      "id": "TRAD012",
+      "name": "Alpha Diané",
+      "location": "Mamou",
+      "experience": "20 ans",
+      "specialty": "Douleurs articulaires",
+      "phone": "+224 673 66 49 43",
+      "rating": 5.0,
+      "reviews": 40,
+      "imageUrl": "https://images.unsplash.com/photo-1547628325-881460"
+    },
+    {
+      "id": "TRAD013",
+      "name": "Lansana Kaba",
+      "location": "N'Zérékoré",
+      "experience": "30 ans",
+      "specialty": "Diabète et hypertension",
+      "phone": "+224 699 99 72 92",
+      "rating": 4.2,
+      "reviews": 197,
+      "imageUrl": "https://images.unsplash.com/photo-1554380917-378832"
+    },
+    {
+      "id": "TRAD014",
+      "name": "Fatoumata Baldé",
+      "location": "Kindia",
+      "experience": "10 ans",
+      "specialty": "Fertilité",
+      "phone": "+224 699 60 37 74",
+      "rating": 4.4,
+      "reviews": 126,
+      "imageUrl": "https://images.unsplash.com/photo-1500517018-240826"
+    },
+    {
+      "id": "TRAD015",
+      "name": "Ousmane Soumah",
+      "location": "Labé",
+      "experience": "20 ans",
+      "specialty": "Soins des enfants",
+      "phone": "+224 666 35 49 54",
+      "rating": 4.5,
+      "reviews": 17,
+      "imageUrl": "https://images.unsplash.com/photo-1628242731-740570"
+    },
+    {
+      "id": "TRAD016",
+      "name": "Bintou Keita",
+      "location": "Mamou",
+      "experience": "20 ans",
+      "specialty": "Troubles digestifs",
+      "phone": "+224 692 51 56 82",
+      "rating": 4.9,
+      "reviews": 140,
+      "imageUrl": "https://images.unsplash.com/photo-1531680152-532879"
+    },
+    {
+      "id": "TRAD017",
+      "name": "Ousmane Camara",
+      "location": "Labé",
+      "experience": "30 ans",
+      "specialty": "Soins des femmes enceintes",
+      "phone": "+224 676 62 23 73",
+      "rating": 4.0,
+      "reviews": 42,
+      "imageUrl": "https://images.unsplash.com/photo-1673093380-734397"
+    },
+    {
+      "id": "TRAD018",
+      "name": "Saliou Camara",
+      "location": "Dalaba",
+      "experience": "5 ans",
+      "specialty": "Soins des femmes enceintes",
+      "phone": "+224 687 98 76 36",
+      "rating": 4.9,
+      "reviews": 73,
+      "imageUrl": "https://images.unsplash.com/photo-1670475145-572187"
+    },
+    {
+      "id": "TRAD019",
+      "name": "Bintou Diallo",
+      "location": "N'Zérékoré",
+      "experience": "25 ans",
+      "specialty": "Diabète et hypertension",
+      "phone": "+224 668 33 56 37",
+      "rating": 3.8,
+      "reviews": 16,
+      "imageUrl": "https://images.unsplash.com/photo-1559918833-549274"
+    },
+    {
+      "id": "TRAD020",
+      "name": "Fatoumata Diallo",
+      "location": "Mamou",
+      "experience": "Plus de 35 ans",
+      "specialty": "Fertilité",
+      "phone": "+224 649 30 47 11",
+      "rating": 4.1,
+      "reviews": 89,
+      "imageUrl": "https://images.unsplash.com/photo-1602662103-239196"
+    },
+    {
+      "id": "TRAD021",
+      "name": "Fanta Touré",
+      "location": "Conakry",
+      "experience": "25 ans",
+      "specialty": "Douleurs articulaires",
+      "phone": "+224 638 60 78 28",
+      "rating": 3.8,
+      "reviews": 52,
+      "imageUrl": "https://images.unsplash.com/photo-1642897833-168495"
+    },
+    {
+      "id": "TRAD022",
+      "name": "Fatoumata Konaté",
+      "location": "Labé",
+      "experience": "5 ans",
+      "specialty": "Troubles digestifs",
+      "phone": "+224 691 22 77 27",
+      "rating": 4.9,
+      "reviews": 202,
+      "imageUrl": "https://images.unsplash.com/photo-1654735369-510917"
+    },
+    {
+      "id": "TRAD023",
+      "name": "Mouctar Kaba",
+      "location": "Télimélé",
+      "experience": "10 ans",
+      "specialty": "Douleurs articulaires",
+      "phone": "+224 669 53 66 33",
+      "rating": 4.0,
+      "reviews": 80,
+      "imageUrl": "https://images.unsplash.com/photo-1654469748-757259"
+    },
+    {
+      "id": "TRAD024",
+      "name": "Fodé Diané",
+      "location": "Labé",
+      "experience": "5 ans",
+      "specialty": "Maladies de peau",
+      "phone": "+224 638 64 23 42",
+      "rating": 4.9,
+      "reviews": 218,
+      "imageUrl": "https://images.unsplash.com/photo-1608908449-746469"
+    },
+    {
+      "id": "TRAD025",
+      "name": "Mohamed Bangoura",
+      "location": "Conakry",
+      "experience": "10 ans",
+      "specialty": "Troubles digestifs",
+      "phone": "+224 687 54 64 31",
+      "rating": 4.0,
+      "reviews": 126,
+      "imageUrl": "https://images.unsplash.com/photo-1599338075-143486"
+    },
+    {
+      "id": "TRAD026",
+      "name": "Ibrahima Condé",
+      "location": "Guékédou",
+      "experience": "20 ans",
+      "specialty": "Diabète et hypertension",
+      "phone": "+224 689 70 97 83",
+      "rating": 4.9,
+      "reviews": 100,
+      "imageUrl": "https://images.unsplash.com/photo-1573392842-525432"
+    },
+    {
+      "id": "TRAD027",
+      "name": "Djénabou Keita",
+      "location": "Pita",
+      "experience": "5 ans",
+      "specialty": "Fractures et entorses",
+      "phone": "+224 633 68 76 38",
+      "rating": 3.9,
+      "reviews": 64,
+      "imageUrl": "https://images.unsplash.com/photo-1560283785-660583"
+    },
+    {
+      "id": "TRAD028",
+      "name": "Thierno Sow",
+      "location": "Boké",
+      "experience": "15 ans",
+      "specialty": "Traitement du paludisme",
+      "phone": "+224 622 19 98 67",
+      "rating": 4.9,
+      "reviews": 54,
+      "imageUrl": "https://images.unsplash.com/photo-1637296708-174409"
+    },
+    {
+      "id": "TRAD029",
+      "name": "Abdoulaye Camara",
+      "location": "Mamou",
+      "experience": "15 ans",
+      "specialty": "Soins des enfants",
+      "phone": "+224 688 82 38 75",
+      "rating": 3.9,
+      "reviews": 60,
+      "imageUrl": "https://images.unsplash.com/photo-1507934085-199025"
+    },
+    {
+      "id": "TRAD030",
+      "name": "Ibrahima Sidibé",
+      "location": "Kissidougou",
+      "experience": "Plus de 35 ans",
+      "specialty": "Phytothérapie générale",
+      "phone": "+224 681 30 55 18",
+      "rating": 4.5,
+      "reviews": 135,
+      "imageUrl": "https://images.unsplash.com/photo-1671803645-299099"
+    },
+    {
+      "id": "TRAD031",
+      "name": "Sékou Baldé",
+      "location": "Siguiri",
+      "experience": "15 ans",
+      "specialty": "Maladies de peau",
+      "phone": "+224 688 99 33 94",
+      "rating": 4.7,
+      "reviews": 124,
+      "imageUrl": "https://images.unsplash.com/photo-1639370021-953964"
+    },
+    {
+      "id": "TRAD032",
+      "name": "Lansana Keita",
+      "location": "Dalaba",
+      "experience": "15 ans",
+      "specialty": "Soins des femmes enceintes",
+      "phone": "+224 621 36 14 15",
+      "rating": 4.0,
+      "reviews": 191,
+      "imageUrl": "https://images.unsplash.com/photo-1503879261-583319"
+    },
+    {
+      "id": "TRAD033",
+      "name": "Fatoumata Barry",
+      "location": "Dinguiraye",
+      "experience": "10 ans",
+      "specialty": "Traitement du paludisme",
+      "phone": "+224 682 11 29 98",
+      "rating": 4.1,
+      "reviews": 99,
+      "imageUrl": "https://images.unsplash.com/photo-1688682122-338382"
+    },
+    {
+      "id": "TRAD034",
+      "name": "Kadiatou Baldé",
+      "location": "Macenta",
+      "experience": "20 ans",
+      "specialty": "Douleurs articulaires",
+      "phone": "+224 632 40 32 73",
+      "rating": 4.8,
+      "reviews": 177,
+      "imageUrl": "https://images.unsplash.com/photo-1598167158-775277"
+    },
+    {
+      "id": "TRAD035",
+      "name": "Sékou Camara",
+      "location": "Conakry",
+      "experience": "10 ans",
+      "specialty": "Fractures et entorses",
+      "phone": "+224 660 41 63 66",
+      "rating": 3.9,
+      "reviews": 21,
+      "imageUrl": "https://images.unsplash.com/photo-1574456343-271532"
+    },
+    {
+      "id": "TRAD036",
+      "name": "Fatoumata Cissé",
+      "location": "Kankan",
+      "experience": "5 ans",
+      "specialty": "Fertilité",
+      "phone": "+224 688 32 24 38",
+      "rating": 3.8,
+      "reviews": 141,
+      "imageUrl": "https://images.unsplash.com/photo-1604616325-743382"
+    },
+    {
+      "id": "TRAD037",
+      "name": "Aissatou Konaté",
+      "location": "Kissidougou",
+      "experience": "5 ans",
+      "specialty": "Douleurs articulaires",
+      "phone": "+224 655 84 33 47",
+      "rating": 3.9,
+      "reviews": 48,
+      "imageUrl": "https://images.unsplash.com/photo-1527604181-517147"
+    },
+    {
+      "id": "TRAD038",
+      "name": "Boubacar Barry",
+      "location": "Siguiri",
+      "experience": "30 ans",
+      "specialty": "Traitement du paludisme",
+      "phone": "+224 654 66 18 10",
+      "rating": 4.4,
+      "reviews": 99,
+      "imageUrl": "https://images.unsplash.com/photo-1670396888-740960"
+    },
+    {
+      "id": "TRAD039",
+      "name": "Boubacar Cissé",
+      "location": "Pita",
+      "experience": "10 ans",
+      "specialty": "Diabète et hypertension",
+      "phone": "+224 666 72 44 26",
+      "rating": 5.0,
+      "reviews": 136,
+      "imageUrl": "https://images.unsplash.com/photo-1643564025-376376"
+    },
+    {
+      "id": "TRAD040",
+      "name": "Fodé Sow",
+      "location": "Boké",
+      "experience": "30 ans",
+      "specialty": "Douleurs articulaires",
+      "phone": "+224 640 30 97 81",
+      "rating": 4.6,
+      "reviews": 92,
+      "imageUrl": "https://images.unsplash.com/photo-1614301161-958748"
+    }
+  ],
+  "astuces": [
+    {
+      "titre": "Infusion de gingembre-citron pour la digestion",
+      "description": "Râper 2 cm de gingembre frais, ajouter le jus d'un demi-citron dans une tasse d'eau chaude. Boire après les repas lourds pour faciliter la digestion et réduire les ballonnements."
+    },
+    {
+      "titre": "Baume au kinkéliba contre les maux de tête",
+      "description": "Faire bouillir des feuilles de kinkéliba, inhaler la vapeur pendant 10 minutes. Appliquer ensuite des compresses tièdes de la décoction sur le front."
+    },
+    {
+      "titre": "Cataplasme de feuilles de papaye pour les plaies",
+      "description": "Écraser des feuilles fraîches de papaye jusqu'à obtenir une pâte. Appliquer directement sur les plaies pour accélérer la cicatrisation. Changer 2 fois par jour."
+    },
+    {
+      "titre": "Sirop maison contre la toux",
+      "description": "Faire bouillir des feuilles de goyavier avec du miel et du citron. Filtrer et conserver au réfrigérateur. Prendre 1 cuillère à soupe 3 fois par jour."
+    },
+    {
+      "titre": "Bain de siège au néré pour les hémorroïdes",
+      "description": "Faire une décoction d'écorce de néré, laisser tiédir et l'utiliser pour un bain de siège de 15-20 minutes matin et soir."
+    },
+    {
+      "titre": "Huile de neem contre les moustiques",
+      "description": "Mélanger l'huile de neem avec de l'huile de coco. Appliquer sur les parties exposées du corps pour éloigner naturellement les moustiques."
+    },
+    {
+      "titre": "Décoction de bissap pour l'hypertension",
+      "description": "Infuser des calices de bissap séchés dans de l'eau chaude. Boire froid, 2-3 verres par jour pour aider à réguler la tension artérielle."
+    },
+    {
+      "titre": "Poudre de moringa dans les repas",
+      "description": "Ajouter 1-2 cuillères à café de poudre de feuilles de moringa dans les sauces, soupes ou smoothies pour booster la nutrition quotidienne."
+    },
+    {
+      "titre": "Gel d'aloe vera pour les brûlures",
+      "description": "Couper une feuille d'aloe vera, extraire le gel transparent et l'appliquer directement sur les brûlures légères ou coups de soleil."
+    },
+    {
+      "titre": "Bain de vapeur à la citronnelle",
+      "description": "Faire bouillir des tiges de citronnelle, inhaler la vapeur pour dégager les voies respiratoires en cas de rhume ou de grippe."
+    },
+    {
+      "titre": "Infusion anti-paludisme",
+      "description": "Combiner feuilles de papaye, neem et vernonie amère en décoction. Boire en prévention ou en complément du traitement médical du paludisme."
+    },
+    {
+      "titre": "Masque capillaire au beurre de karité",
+      "description": "Faire fondre du beurre de karité, appliquer sur les cheveux et le cuir chevelu. Laisser agir 30 minutes avant de laver pour nourrir et réparer les cheveux."
+    },
+    {
+      "titre": "Bain de bouche au sel et citron",
+      "description": "Dissoudre 1 cuillère à café de sel dans de l'eau tiède avec du jus de citron. Utiliser comme bain de bouche pour les infections et mauvaise haleine."
+    },
+    {
+      "titre": "Pâte de kinkeliba détoxifiante",
+      "description": "Boire une infusion de kinkéliba chaque matin pendant une semaine pour détoxifier le foie et purifier l'organisme."
+    },
+    {
+      "titre": "Traitement des mycoses au dartrier",
+      "description": "Écraser des feuilles fraîches de Cassia alata, appliquer la pâte sur les zones affectées par les mycoses 2 fois par jour jusqu'à guérison."
+    },
+    {
+      "titre": "Thé à la menthe digestif",
+      "description": "Infuser des feuilles de menthe fraîche après chaque repas pour faciliter la digestion et réduire les ballonnements."
+    },
+    {
+      "titre": "Eau de cuisson du riz contre la diarrhée",
+      "description": "Récupérer l'eau de cuisson du riz, la boire tiède pour stopper les diarrhées légères grâce à son effet astringent."
+    },
+    {
+      "titre": "Massage à l'huile de ricin",
+      "description": "Masser les articulations douloureuses avec de l'huile de ricin chaude pour soulager les rhumatismes et arthrose."
+    },
+    {
+      "titre": "Prévention des maux de tête",
+      "description": "Boire régulièrement de l'infusion de citronnelle et rester bien hydraté pour prévenir les maux de tête fréquents."
+    },
+    {
+      "titre": "Soins des pieds au baobab",
+      "description": "Faire un bain de pieds avec de la poudre de pulpe de baobab dissoute dans l'eau tiède pour adoucir et soigner les pieds."
+    },
+    {
+      "titre": "Traitement des vergetures 20",
+      "description": "Appliquer localement le remède à base de Poivre de Guinée, Poivre noir africain pour obtenir des résultats visibles."
+    },
+    {
+      "titre": "Soin de la peau sèche 21",
+      "description": "Utiliser en cataplasme, massage ou bain pour soulager efficacement."
+    },
+    {
+      "titre": "Soin des cicatrices 22",
+      "description": "Utiliser en cataplasme, massage ou bain pour soulager efficacement."
+    },
+    {
+      "titre": "Traitement des infections urinaires 23",
+      "description": "Utiliser en cataplasme, massage ou bain pour soulager efficacement."
+    },
+    {
+      "titre": "Remède naturel contre l'insomnie 24",
+      "description": "Consommer régulièrement pendant [durée] pour des résultats durables."
+    },
+    {
+      "titre": "Remède contre la fatigue chronique 25",
+      "description": "Préparer une infusion/décoction de Ricin et l'utiliser selon les besoins."
+    },
+    {
+      "titre": "Soin de la peau sèche 26",
+      "description": "Préparer une infusion/décoction de Pourghère, Jatropha et l'utiliser selon les besoins."
+    },
+    {
+      "titre": "Remède contre l'anxiété 27",
+      "description": "Appliquer localement le remède à base de Citronnelle pour obtenir des résultats visibles."
+    },
+    {
+      "titre": "Traitement des piqûres d'insectes 28",
+      "description": "Préparer une infusion/décoction de Kinkéliba et l'utiliser selon les besoins."
+    },
+    {
+      "titre": "Traitement des infections urinaires 29",
+      "description": "Utiliser en cataplasme, massage ou bain pour soulager efficacement."
+    },
+    {
+      "titre": "Remède contre les ballonnements 30",
+      "description": "Mélanger Citron, Citronnier avec du miel/citron/huile pour maximiser les effets."
+    },
+    {
+      "titre": "Traitement de l'acné naturel 31",
+      "description": "Appliquer localement le remède à base de Poivre de Guinée, Poivre noir africain pour obtenir des résultats visibles."
+    },
+    {
+      "titre": "Remède pour renforcer le système immunitaire 32",
+      "description": "Préparer une infusion/décoction de Vernonie amère et l'utiliser selon les besoins."
+    },
+    {
+      "titre": "Soin des cheveux crépus 33",
+      "description": "Utiliser en cataplasme, massage ou bain pour soulager efficacement."
+    },
+    {
+      "titre": "Soin anti-âge naturel 34",
+      "description": "Appliquer localement le remède à base de Goyave, Goyavier pour obtenir des résultats visibles."
+    },
+    {
+      "titre": "Remède contre les ballonnements 35",
+      "description": "Mélanger Menthe verte avec du miel/citron/huile pour maximiser les effets."
+    },
+    {
+      "titre": "Traitement des vergetures 36",
+      "description": "Préparer une infusion/décoction de Kinkéliba et l'utiliser selon les besoins."
+    },
+    {
+      "titre": "Soin de la peau sèche 37",
+      "description": "Mélanger Vernonie amère avec du miel/citron/huile pour maximiser les effets."
+    },
+    {
+      "titre": "Soin de la peau sèche 38",
+      "description": "Appliquer localement le remède à base de Café nègre, Séné occidental pour obtenir des résultats visibles."
+    },
+    {
+      "titre": "Remède contre l'anxiété 39",
+      "description": "Appliquer localement le remède à base de Vernonie amère pour obtenir des résultats visibles."
+    },
+    {
+      "titre": "Soin anti-âge naturel 40",
+      "description": "Mélanger Gingembre avec du miel/citron/huile pour maximiser les effets."
+    },
+    {
+      "titre": "Soin des crevasses 41",
+      "description": "Consommer régulièrement pendant [durée] pour des résultats durables."
+    },
+    {
+      "titre": "Soin des cheveux crépus 42",
+      "description": "Appliquer localement le remède à base de Manguier pour obtenir des résultats visibles."
+    },
+    {
+      "titre": "Soin des crevasses 43",
+      "description": "Utiliser en cataplasme, massage ou bain pour soulager efficacement."
+    },
+    {
+      "titre": "Soin des cicatrices 44",
+      "description": "Utiliser en cataplasme, massage ou bain pour soulager efficacement."
+    },
+    {
+      "titre": "Traitement de l'eczéma 45",
+      "description": "Appliquer localement le remède à base de Citronnelle pour obtenir des résultats visibles."
+    },
+    {
+      "titre": "Traitement de l'acné naturel 46",
+      "description": "Utiliser en cataplasme, massage ou bain pour soulager efficacement."
+    },
+    {
+      "titre": "Remède contre les règles douloureuses 47",
+      "description": "Préparer une infusion/décoction de Dartrier, Casse ailée et l'utiliser selon les besoins."
+    },
+    {
+      "titre": "Traitement de l'eczéma 48",
+      "description": "Préparer une infusion/décoction de Papaye, Papayer et l'utiliser selon les besoins."
+    },
+    {
+      "titre": "Soin des crevasses 49",
+      "description": "Utiliser en cataplasme, massage ou bain pour soulager efficacement."
+    },
+    {
+      "titre": "Remède naturel contre l'insomnie 50",
+      "description": "Mélanger Citronnelle avec du miel/citron/huile pour maximiser les effets."
+    },
+    {
+      "titre": "Traitement de l'acné naturel 51",
+      "description": "Appliquer localement le remède à base de Moringa, Arbre de vie pour obtenir des résultats visibles."
+    },
+    {
+      "titre": "Traitement de l'eczéma 52",
+      "description": "Utiliser en cataplasme, massage ou bain pour soulager efficacement."
+    },
+    {
+      "titre": "Traitement des infections urinaires 53",
+      "description": "Mélanger Kinkéliba avec du miel/citron/huile pour maximiser les effets."
+    },
+    {
+      "titre": "Traitement des piqûres d'insectes 54",
+      "description": "Préparer une infusion/décoction de Neem, Margousier et l'utiliser selon les besoins."
+    },
+    {
+      "titre": "Remède contre les ballonnements 55",
+      "description": "Utiliser en cataplasme, massage ou bain pour soulager efficacement."
+    },
+    {
+      "titre": "Remède contre l'anxiété 56",
+      "description": "Consommer régulièrement pendant [durée] pour des résultats durables."
+    },
+    {
+      "titre": "Soin de la peau sèche 57",
+      "description": "Appliquer localement le remède à base de Anacardier, Cajou pour obtenir des résultats visibles."
+    },
+    {
+      "titre": "Traitement des infections urinaires 58",
+      "description": "Consommer régulièrement pendant [durée] pour des résultats durables."
+    },
+    {
+      "titre": "Soin anti-âge naturel 59",
+      "description": "Consommer régulièrement pendant [durée] pour des résultats durables."
+    },
+    {
+      "titre": "Traitement des vergetures 60",
+      "description": "Mélanger Neem, Margousier avec du miel/citron/huile pour maximiser les effets."
+    },
+    {
+      "titre": "Soin des cicatrices 61",
+      "description": "Préparer une infusion/décoction de Anacardier, Cajou et l'utiliser selon les besoins."
+    },
+    {
+      "titre": "Remède contre la fatigue chronique 62",
+      "description": "Préparer une infusion/décoction de Vernonie amère et l'utiliser selon les besoins."
+    },
+    {
+      "titre": "Remède contre la fatigue chronique 63",
+      "description": "Consommer régulièrement pendant [durée] pour des résultats durables."
+    },
+    {
+      "titre": "Traitement des infections urinaires 64",
+      "description": "Utiliser en cataplasme, massage ou bain pour soulager efficacement."
+    },
+    {
+      "titre": "Soin anti-âge naturel 65",
+      "description": "Préparer une infusion/décoction de Goyave, Goyavier et l'utiliser selon les besoins."
+    },
+    {
+      "titre": "Remède contre la constipation 66",
+      "description": "Mélanger Ricin avec du miel/citron/huile pour maximiser les effets."
+    },
+    {
+      "titre": "Remède contre les règles douloureuses 67",
+      "description": "Utiliser en cataplasme, massage ou bain pour soulager efficacement."
+    },
+    {
+      "titre": "Soin des crevasses 68",
+      "description": "Consommer régulièrement pendant [durée] pour des résultats durables."
+    },
+    {
+      "titre": "Fortifiant naturel pour les ongles 69",
+      "description": "Préparer une infusion/décoction de Pourghère, Jatropha et l'utiliser selon les besoins."
+    },
+    {
+      "titre": "Traitement des infections urinaires 70",
+      "description": "Préparer une infusion/décoction de Vernonie amère et l'utiliser selon les besoins."
+    },
+    {
+      "titre": "Remède contre les règles douloureuses 71",
+      "description": "Consommer régulièrement pendant [durée] pour des résultats durables."
+    },
+    {
+      "titre": "Soin des lèvres gercées 72",
+      "description": "Utiliser en cataplasme, massage ou bain pour soulager efficacement."
+    },
+    {
+      "titre": "Traitement des douleurs menstruelles 73",
+      "description": "Préparer une infusion/décoction de Anacardier, Cajou et l'utiliser selon les besoins."
+    },
+    {
+      "titre": "Traitement de l'acné naturel 74",
+      "description": "Consommer régulièrement pendant [durée] pour des résultats durables."
+    },
+    {
+      "titre": "Traitement des infections urinaires 75",
+      "description": "Consommer régulièrement pendant [durée] pour des résultats durables."
+    },
+    {
+      "titre": "Remède contre la fatigue chronique 76",
+      "description": "Mélanger Café nègre, Séné occidental avec du miel/citron/huile pour maximiser les effets."
+    },
+    {
+      "titre": "Fortifiant naturel pour les ongles 77",
+      "description": "Appliquer localement le remède à base de Menthe verte pour obtenir des résultats visibles."
+    },
+    {
+      "titre": "Traitement des infections urinaires 78",
+      "description": "Consommer régulièrement pendant [durée] pour des résultats durables."
+    },
+    {
+      "titre": "Remède contre la constipation 79",
+      "description": "Appliquer localement le remède à base de Neem, Margousier pour obtenir des résultats visibles."
+    },
+    {
+      "titre": "Soin des crevasses 80",
+      "description": "Consommer régulièrement pendant [durée] pour des résultats durables."
+    },
+    {
+      "titre": "Soin anti-âge naturel 81",
+      "description": "Préparer une infusion/décoction de Goyave, Goyavier et l'utiliser selon les besoins."
+    },
+    {
+      "titre": "Traitement des vergetures 82",
+      "description": "Mélanger Aloès, Aloe vera avec du miel/citron/huile pour maximiser les effets."
+    },
+    {
+      "titre": "Remède pour renforcer le système immunitaire 83",
+      "description": "Mélanger Menthe verte avec du miel/citron/huile pour maximiser les effets."
+    },
+    {
+      "titre": "Soin des cicatrices 84",
+      "description": "Appliquer localement le remède à base de Moringa, Arbre de vie pour obtenir des résultats visibles."
+    },
+    {
+      "titre": "Soin des cheveux crépus 85",
+      "description": "Consommer régulièrement pendant [durée] pour des résultats durables."
+    },
+    {
+      "titre": "Soin des cheveux crépus 86",
+      "description": "Mélanger Neem, Margousier avec du miel/citron/huile pour maximiser les effets."
+    },
+    {
+      "titre": "Remède contre la constipation 87",
+      "description": "Préparer une infusion/décoction de Ricin et l'utiliser selon les besoins."
+    },
+    {
+      "titre": "Remède contre la constipation 88",
+      "description": "Utiliser en cataplasme, massage ou bain pour soulager efficacement."
+    },
+    {
+      "titre": "Traitement des vergetures 89",
+      "description": "Mélanger Manguier avec du miel/citron/huile pour maximiser les effets."
+    },
+    {
+      "titre": "Soin des lèvres gercées 90",
+      "description": "Appliquer localement le remède à base de Café nègre, Séné occidental pour obtenir des résultats visibles."
+    },
+    {
+      "titre": "Traitement des vergetures 91",
+      "description": "Préparer une infusion/décoction de Dartrier, Casse ailée et l'utiliser selon les besoins."
+    },
+    {
+      "titre": "Soin des crevasses 92",
+      "description": "Mélanger Neem, Margousier avec du miel/citron/huile pour maximiser les effets."
+    },
+    {
+      "titre": "Remède contre les ballonnements 93",
+      "description": "Mélanger Citronnelle avec du miel/citron/huile pour maximiser les effets."
+    },
+    {
+      "titre": "Traitement des piqûres d'insectes 94",
+      "description": "Mélanger Citron, Citronnier avec du miel/citron/huile pour maximiser les effets."
+    },
+    {
+      "titre": "Traitement des piqûres d'insectes 95",
+      "description": "Consommer régulièrement pendant [durée] pour des résultats durables."
+    },
+    {
+      "titre": "Remède contre la constipation 96",
+      "description": "Appliquer localement le remède à base de Bissap, Oseille de Guinée pour obtenir des résultats visibles."
+    },
+    {
+      "titre": "Remède pour renforcer le système immunitaire 97",
+      "description": "Mélanger Basilic africain avec du miel/citron/huile pour maximiser les effets."
+    },
+    {
+      "titre": "Traitement des piqûres d'insectes 98",
+      "description": "Appliquer localement le remède à base de Gingembre pour obtenir des résultats visibles."
+    },
+    {
+      "titre": "Remède contre les ballonnements 99",
+      "description": "Consommer régulièrement pendant [durée] pour des résultats durables."
+    },
+    {
+      "titre": "Fortifiant naturel pour les ongles 100",
+      "description": "Utiliser en cataplasme, massage ou bain pour soulager efficacement."
+    },
+    {
+      "titre": "Remède contre les règles douloureuses 101",
+      "description": "Préparer une infusion/décoction de Manguier et l'utiliser selon les besoins."
+    },
+    {
+      "titre": "Soin anti-âge naturel 102",
+      "description": "Consommer régulièrement pendant [durée] pour des résultats durables."
+    },
+    {
+      "titre": "Soin des lèvres gercées 103",
+      "description": "Appliquer localement le remède à base de Goyave, Goyavier pour obtenir des résultats visibles."
+    },
+    {
+      "titre": "Soin des cicatrices 104",
+      "description": "Appliquer localement le remède à base de Kinkéliba pour obtenir des résultats visibles."
+    },
+    {
+      "titre": "Traitement des douleurs menstruelles 105",
+      "description": "Consommer régulièrement pendant [durée] pour des résultats durables."
+    },
+    {
+      "titre": "Remède contre les règles douloureuses 106",
+      "description": "Mélanger Moringa, Arbre de vie avec du miel/citron/huile pour maximiser les effets."
+    },
+    {
+      "titre": "Soin des cheveux crépus 107",
+      "description": "Utiliser en cataplasme, massage ou bain pour soulager efficacement."
+    },
+    {
+      "titre": "Soin des cheveux crépus 108",
+      "description": "Mélanger Goyave, Goyavier avec du miel/citron/huile pour maximiser les effets."
+    },
+    {
+      "titre": "Remède contre les règles douloureuses 109",
+      "description": "Appliquer localement le remède à base de Café nègre, Séné occidental pour obtenir des résultats visibles."
+    },
+    {
+      "titre": "Remède contre les règles douloureuses 110",
+      "description": "Consommer régulièrement pendant [durée] pour des résultats durables."
+    },
+    {
+      "titre": "Soin des cicatrices 111",
+      "description": "Consommer régulièrement pendant [durée] pour des résultats durables."
+    },
+    {
+      "titre": "Soin des crevasses 112",
+      "description": "Préparer une infusion/décoction de Kinkéliba et l'utiliser selon les besoins."
+    },
+    {
+      "titre": "Soin des lèvres gercées 113",
+      "description": "Utiliser en cataplasme, massage ou bain pour soulager efficacement."
+    },
+    {
+      "titre": "Soin des crevasses 114",
+      "description": "Préparer une infusion/décoction de Basilic africain et l'utiliser selon les besoins."
+    },
+    {
+      "titre": "Remède contre les ballonnements 115",
+      "description": "Appliquer localement le remède à base de Aloès, Aloe vera pour obtenir des résultats visibles."
+    },
+    {
+      "titre": "Remède contre l'anxiété 116",
+      "description": "Utiliser en cataplasme, massage ou bain pour soulager efficacement."
+    },
+    {
+      "titre": "Remède contre les règles douloureuses 117",
+      "description": "Utiliser en cataplasme, massage ou bain pour soulager efficacement."
+    },
+    {
+      "titre": "Soin des cicatrices 118",
+      "description": "Préparer une infusion/décoction de Aloès, Aloe vera et l'utiliser selon les besoins."
+    },
+    {
+      "titre": "Remède pour renforcer le système immunitaire 119",
+      "description": "Mélanger Bissap, Oseille de Guinée avec du miel/citron/huile pour maximiser les effets."
+    },
+    {
+      "titre": "Remède pour renforcer le système immunitaire 120",
+      "description": "Consommer régulièrement pendant [durée] pour des résultats durables."
+    },
+    {
+      "titre": "Traitement des infections urinaires 121",
+      "description": "Utiliser en cataplasme, massage ou bain pour soulager efficacement."
+    },
+    {
+      "titre": "Remède contre la fatigue chronique 122",
+      "description": "Mélanger Moringa, Arbre de vie avec du miel/citron/huile pour maximiser les effets."
+    },
+    {
+      "titre": "Soin anti-âge naturel 123",
+      "description": "Mélanger Vernonie amère avec du miel/citron/huile pour maximiser les effets."
+    },
+    {
+      "titre": "Traitement des vergetures 124",
+      "description": "Appliquer localement le remède à base de Vernonie amère pour obtenir des résultats visibles."
+    },
+    {
+      "titre": "Remède contre les règles douloureuses 125",
+      "description": "Consommer régulièrement pendant [durée] pour des résultats durables."
+    },
+    {
+      "titre": "Remède naturel contre l'insomnie 126",
+      "description": "Appliquer localement le remède à base de Gingembre pour obtenir des résultats visibles."
+    },
+    {
+      "titre": "Soin des cicatrices 127",
+      "description": "Mélanger Goyave, Goyavier avec du miel/citron/huile pour maximiser les effets."
+    },
+    {
+      "titre": "Remède pour renforcer le système immunitaire 128",
+      "description": "Utiliser en cataplasme, massage ou bain pour soulager efficacement."
+    },
+    {
+      "titre": "Soin de la peau sèche 129",
+      "description": "Consommer régulièrement pendant [durée] pour des résultats durables."
+    },
+    {
+      "titre": "Remède pour renforcer le système immunitaire 130",
+      "description": "Appliquer localement le remède à base de Pourghère, Jatropha pour obtenir des résultats visibles."
+    },
+    {
+      "titre": "Traitement des infections urinaires 131",
+      "description": "Préparer une infusion/décoction de Poivre de Guinée, Poivre noir africain et l'utiliser selon les besoins."
+    },
+    {
+      "titre": "Remède pour renforcer le système immunitaire 132",
+      "description": "Appliquer localement le remède à base de Citron, Citronnier pour obtenir des résultats visibles."
+    },
+    {
+      "titre": "Traitement des infections urinaires 133",
+      "description": "Consommer régulièrement pendant [durée] pour des résultats durables."
+    },
+    {
+      "titre": "Soin des crevasses 134",
+      "description": "Mélanger Manguier avec du miel/citron/huile pour maximiser les effets."
+    },
+    {
+      "titre": "Remède contre l'anxiété 135",
+      "description": "Consommer régulièrement pendant [durée] pour des résultats durables."
+    },
+    {
+      "titre": "Remède naturel contre l'insomnie 136",
+      "description": "Utiliser en cataplasme, massage ou bain pour soulager efficacement."
+    },
+    {
+      "titre": "Fortifiant naturel pour les ongles 137",
+      "description": "Consommer régulièrement pendant [durée] pour des résultats durables."
+    },
+    {
+      "titre": "Remède contre la constipation 138",
+      "description": "Utiliser en cataplasme, massage ou bain pour soulager efficacement."
+    },
+    {
+      "titre": "Soin des lèvres gercées 139",
+      "description": "Appliquer localement le remède à base de Pourghère, Jatropha pour obtenir des résultats visibles."
+    },
+    {
+      "titre": "Fortifiant naturel pour les ongles 140",
+      "description": "Préparer une infusion/décoction de Café nègre, Séné occidental et l'utiliser selon les besoins."
+    },
+    {
+      "titre": "Soin de la peau sèche 141",
+      "description": "Mélanger Citron, Citronnier avec du miel/citron/huile pour maximiser les effets."
+    },
+    {
+      "titre": "Soin des cheveux crépus 142",
+      "description": "Mélanger Dartrier, Casse ailée avec du miel/citron/huile pour maximiser les effets."
+    },
+    {
+      "titre": "Remède contre la constipation 143",
+      "description": "Mélanger Menthe verte avec du miel/citron/huile pour maximiser les effets."
+    },
+    {
+      "titre": "Soin de la peau sèche 144",
+      "description": "Consommer régulièrement pendant [durée] pour des résultats durables."
+    },
+    {
+      "titre": "Traitement de l'acné naturel 145",
+      "description": "Consommer régulièrement pendant [durée] pour des résultats durables."
+    },
+    {
+      "titre": "Soin des crevasses 146",
+      "description": "Préparer une infusion/décoction de Vernonie amère et l'utiliser selon les besoins."
+    },
+    {
+      "titre": "Soin anti-âge naturel 147",
+      "description": "Préparer une infusion/décoction de Café nègre, Séné occidental et l'utiliser selon les besoins."
+    },
+    {
+      "titre": "Traitement de l'acné naturel 148",
+      "description": "Mélanger Anacardier, Cajou avec du miel/citron/huile pour maximiser les effets."
+    },
+    {
+      "titre": "Remède contre l'anxiété 149",
+      "description": "Consommer régulièrement pendant [durée] pour des résultats durables."
+    },
+    {
+      "titre": "Traitement de l'acné naturel 150",
+      "description": "Mélanger Goyave, Goyavier avec du miel/citron/huile pour maximiser les effets."
+    },
+    {
+      "titre": "Fortifiant naturel pour les ongles 151",
+      "description": "Mélanger Aloès, Aloe vera avec du miel/citron/huile pour maximiser les effets."
+    },
+    {
+      "titre": "Remède contre les ballonnements 152",
+      "description": "Consommer régulièrement pendant [durée] pour des résultats durables."
+    },
+    {
+      "titre": "Soin des cheveux crépus 153",
+      "description": "Préparer une infusion/décoction de Basilic africain et l'utiliser selon les besoins."
+    },
+    {
+      "titre": "Soin anti-âge naturel 154",
+      "description": "Mélanger Ricin avec du miel/citron/huile pour maximiser les effets."
+    },
+    {
+      "titre": "Traitement de l'eczéma 155",
+      "description": "Préparer une infusion/décoction de Manguier et l'utiliser selon les besoins."
+    },
+    {
+      "titre": "Soin anti-âge naturel 156",
+      "description": "Préparer une infusion/décoction de Poivre de Guinée, Poivre noir africain et l'utiliser selon les besoins."
+    },
+    {
+      "titre": "Traitement des douleurs menstruelles 157",
+      "description": "Préparer une infusion/décoction de Bissap, Oseille de Guinée et l'utiliser selon les besoins."
+    },
+    {
+      "titre": "Traitement des piqûres d'insectes 158",
+      "description": "Utiliser en cataplasme, massage ou bain pour soulager efficacement."
+    },
+    {
+      "titre": "Remède contre les ballonnements 159",
+      "description": "Consommer régulièrement pendant [durée] pour des résultats durables."
+    },
+    {
+      "titre": "Fortifiant naturel pour les ongles 160",
+      "description": "Mélanger Pourghère, Jatropha avec du miel/citron/huile pour maximiser les effets."
+    },
+    {
+      "titre": "Traitement des piqûres d'insectes 161",
+      "description": "Appliquer localement le remède à base de Manguier pour obtenir des résultats visibles."
+    },
+    {
+      "titre": "Fortifiant naturel pour les ongles 162",
+      "description": "Préparer une infusion/décoction de Manguier et l'utiliser selon les besoins."
+    },
+    {
+      "titre": "Soin des cicatrices 163",
+      "description": "Préparer une infusion/décoction de Vernonie amère et l'utiliser selon les besoins."
+    },
+    {
+      "titre": "Traitement de l'eczéma 164",
+      "description": "Utiliser en cataplasme, massage ou bain pour soulager efficacement."
+    },
+    {
+      "titre": "Soin des lèvres gercées 165",
+      "description": "Préparer une infusion/décoction de Menthe verte et l'utiliser selon les besoins."
+    },
+    {
+      "titre": "Traitement de l'eczéma 166",
+      "description": "Appliquer localement le remède à base de Neem, Margousier pour obtenir des résultats visibles."
+    },
+    {
+      "titre": "Soin de la peau sèche 167",
+      "description": "Utiliser en cataplasme, massage ou bain pour soulager efficacement."
+    },
+    {
+      "titre": "Traitement de l'eczéma 168",
+      "description": "Consommer régulièrement pendant [durée] pour des résultats durables."
+    },
+    {
+      "titre": "Remède contre les règles douloureuses 169",
+      "description": "Préparer une infusion/décoction de Papaye, Papayer et l'utiliser selon les besoins."
+    },
+    {
+      "titre": "Remède contre la fatigue chronique 170",
+      "description": "Préparer une infusion/décoction de Manguier et l'utiliser selon les besoins."
+    },
+    {
+      "titre": "Remède pour renforcer le système immunitaire 171",
+      "description": "Consommer régulièrement pendant [durée] pour des résultats durables."
+    },
+    {
+      "titre": "Soin des cheveux crépus 172",
+      "description": "Utiliser en cataplasme, massage ou bain pour soulager efficacement."
+    },
+    {
+      "titre": "Soin des crevasses 173",
+      "description": "Préparer une infusion/décoction de Neem, Margousier et l'utiliser selon les besoins."
+    },
+    {
+      "titre": "Traitement des vergetures 174",
+      "description": "Préparer une infusion/décoction de Ricin et l'utiliser selon les besoins."
+    },
+    {
+      "titre": "Remède pour renforcer le système immunitaire 175",
+      "description": "Préparer une infusion/décoction de Vernonie amère et l'utiliser selon les besoins."
+    },
+    {
+      "titre": "Soin des lèvres gercées 176",
+      "description": "Utiliser en cataplasme, massage ou bain pour soulager efficacement."
+    },
+    {
+      "titre": "Traitement des infections urinaires 177",
+      "description": "Appliquer localement le remède à base de Menthe verte pour obtenir des résultats visibles."
+    },
+    {
+      "titre": "Remède contre l'anxiété 178",
+      "description": "Appliquer localement le remède à base de Basilic africain pour obtenir des résultats visibles."
+    },
+    {
+      "titre": "Remède contre l'anxiété 179",
+      "description": "Préparer une infusion/décoction de Café nègre, Séné occidental et l'utiliser selon les besoins."
+    },
+    {
+      "titre": "Traitement de l'acné naturel 180",
+      "description": "Consommer régulièrement pendant [durée] pour des résultats durables."
+    },
+    {
+      "titre": "Remède contre l'anxiété 181",
+      "description": "Mélanger Menthe verte avec du miel/citron/huile pour maximiser les effets."
+    },
+    {
+      "titre": "Traitement des douleurs menstruelles 182",
+      "description": "Appliquer localement le remède à base de Goyave, Goyavier pour obtenir des résultats visibles."
+    },
+    {
+      "titre": "Remède contre les ballonnements 183",
+      "description": "Consommer régulièrement pendant [durée] pour des résultats durables."
+    },
+    {
+      "titre": "Traitement de l'eczéma 184",
+      "description": "Mélanger Pourghère, Jatropha avec du miel/citron/huile pour maximiser les effets."
+    },
+    {
+      "titre": "Traitement de l'eczéma 185",
+      "description": "Mélanger Café nègre, Séné occidental avec du miel/citron/huile pour maximiser les effets."
+    },
+    {
+      "titre": "Soin des crevasses 186",
+      "description": "Préparer une infusion/décoction de Menthe verte et l'utiliser selon les besoins."
+    },
+    {
+      "titre": "Remède naturel contre l'insomnie 187",
+      "description": "Consommer régulièrement pendant [durée] pour des résultats durables."
+    },
+    {
+      "titre": "Traitement des douleurs menstruelles 188",
+      "description": "Préparer une infusion/décoction de Goyave, Goyavier et l'utiliser selon les besoins."
+    },
+    {
+      "titre": "Remède contre la fatigue chronique 189",
+      "description": "Préparer une infusion/décoction de Citron, Citronnier et l'utiliser selon les besoins."
+    },
+    {
+      "titre": "Soin des cicatrices 190",
+      "description": "Appliquer localement le remède à base de Neem, Margousier pour obtenir des résultats visibles."
+    },
+    {
+      "titre": "Soin anti-âge naturel 191",
+      "description": "Appliquer localement le remède à base de Aloès, Aloe vera pour obtenir des résultats visibles."
+    },
+    {
+      "titre": "Remède contre l'anxiété 192",
+      "description": "Appliquer localement le remède à base de Menthe verte pour obtenir des résultats visibles."
+    },
+    {
+      "titre": "Traitement des piqûres d'insectes 193",
+      "description": "Consommer régulièrement pendant [durée] pour des résultats durables."
+    },
+    {
+      "titre": "Remède naturel contre l'insomnie 194",
+      "description": "Préparer une infusion/décoction de Dartrier, Casse ailée et l'utiliser selon les besoins."
+    },
+    {
+      "titre": "Soin des cicatrices 195",
+      "description": "Préparer une infusion/décoction de Pourghère, Jatropha et l'utiliser selon les besoins."
+    },
+    {
+      "titre": "Traitement des infections urinaires 196",
+      "description": "Utiliser en cataplasme, massage ou bain pour soulager efficacement."
+    },
+    {
+      "titre": "Traitement des vergetures 197",
+      "description": "Appliquer localement le remède à base de Vernonie amère pour obtenir des résultats visibles."
+    },
+    {
+      "titre": "Remède contre la fatigue chronique 198",
+      "description": "Consommer régulièrement pendant [durée] pour des résultats durables."
+    },
+    {
+      "titre": "Remède contre la fatigue chronique 199",
+      "description": "Mélanger Manguier avec du miel/citron/huile pour maximiser les effets."
+    },
+    {
+      "titre": "Traitement des infections urinaires 200",
+      "description": "Consommer régulièrement pendant [durée] pour des résultats durables."
+    },
+    {
+      "titre": "Traitement de l'eczéma 201",
+      "description": "Mélanger Vernonie amère avec du miel/citron/huile pour maximiser les effets."
+    },
+    {
+      "titre": "Soin des cicatrices 202",
+      "description": "Utiliser en cataplasme, massage ou bain pour soulager efficacement."
+    },
+    {
+      "titre": "Soin des lèvres gercées 203",
+      "description": "Mélanger Café nègre, Séné occidental avec du miel/citron/huile pour maximiser les effets."
+    },
+    {
+      "titre": "Soin anti-âge naturel 204",
+      "description": "Appliquer localement le remède à base de Menthe verte pour obtenir des résultats visibles."
+    },
+    {
+      "titre": "Fortifiant naturel pour les ongles 205",
+      "description": "Préparer une infusion/décoction de Café nègre, Séné occidental et l'utiliser selon les besoins."
+    },
+    {
+      "titre": "Traitement des piqûres d'insectes 206",
+      "description": "Appliquer localement le remède à base de Ricin pour obtenir des résultats visibles."
+    },
+    {
+      "titre": "Traitement des infections urinaires 207",
+      "description": "Mélanger Pourghère, Jatropha avec du miel/citron/huile pour maximiser les effets."
+    },
+    {
+      "titre": "Traitement des infections urinaires 208",
+      "description": "Mélanger Dartrier, Casse ailée avec du miel/citron/huile pour maximiser les effets."
+    },
+    {
+      "titre": "Traitement des vergetures 209",
+      "description": "Utiliser en cataplasme, massage ou bain pour soulager efficacement."
+    },
+    {
+      "titre": "Remède naturel contre l'insomnie 210",
+      "description": "Mélanger Moringa, Arbre de vie avec du miel/citron/huile pour maximiser les effets."
+    },
+    {
+      "titre": "Traitement de l'acné naturel 211",
+      "description": "Utiliser en cataplasme, massage ou bain pour soulager efficacement."
+    },
+    {
+      "titre": "Soin anti-âge naturel 212",
+      "description": "Utiliser en cataplasme, massage ou bain pour soulager efficacement."
+    },
+    {
+      "titre": "Remède contre les règles douloureuses 213",
+      "description": "Mélanger Gingembre avec du miel/citron/huile pour maximiser les effets."
+    },
+    {
+      "titre": "Soin des lèvres gercées 214",
+      "description": "Consommer régulièrement pendant [durée] pour des résultats durables."
+    },
+    {
+      "titre": "Remède naturel contre l'insomnie 215",
+      "description": "Utiliser en cataplasme, massage ou bain pour soulager efficacement."
+    },
+    {
+      "titre": "Fortifiant naturel pour les ongles 216",
+      "description": "Mélanger Citronnelle avec du miel/citron/huile pour maximiser les effets."
+    },
+    {
+      "titre": "Remède naturel contre l'insomnie 217",
+      "description": "Utiliser en cataplasme, massage ou bain pour soulager efficacement."
+    },
+    {
+      "titre": "Traitement de l'eczéma 218",
+      "description": "Préparer une infusion/décoction de Aloès, Aloe vera et l'utiliser selon les besoins."
+    },
+    {
+      "titre": "Soin de la peau sèche 219",
+      "description": "Appliquer localement le remède à base de Manguier pour obtenir des résultats visibles."
+    }
+  ],
+  "metadata": {
+    "version": "1.0",
+    "date_creation": "2025-01-18",
+    "nombre_plantes": 39,
+    "nombre_tradipraticiens": 40,
+    "nombre_astuces": 220,
+    "region": "Afrique de l'Ouest - Guinée"
+  }
+}
