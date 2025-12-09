@@ -13,7 +13,6 @@ toumola_ai/
 .vscode
 .idea
 *.log
-vector_db/
 data/
 *.db
 .DS_Store
