@@ -1,0 +1,2048 @@
+{
+  "metadata": {
+    "projet": "Toumöla - Plantes Médicinales de Guinée",
+    "organisation": "IndabaX Guinée / IRDPMAG",
+    "evenement": "Deep Learning Indaba 2026 - RIAD Session",
+    "auteur": "Dataset synthétique pour système RAG",
+    "version": "1.0",
+    "date_creation": "2026-04-10",
+    "nombre_plantes": 10,
+    "langue": "Français",
+    "licence": "CC BY 4.0"
+  },
+  "plantes": [
+    {
+      "id": "PLT-001",
+      "plante_scientifique": "Morinda lucida",
+      "famille": "Rubiaceae",
+      "plante_locale": {
+        "peuhl": "Koubi",
+        "malinke": "Banbaran",
+        "soussou": "Gbèlè",
+        "francais": "Arbre soufré"
+      },
+      "description_botanique": "Arbuste ou petit arbre pouvant atteindre 10 m, à feuilles opposées elliptiques, fleurs blanches tubulaires en capitules, fruits charnus jaunes à maturité. Écorce grise à brun clair.",
+      "zone_culture": [
+        "Forêt dense humide",
+        "Savane arborée",
+        "Galerie forestière"
+      ],
+      "pays_distribution": [
+        "Guinée",
+        "Côte d'Ivoire",
+        "Ghana",
+        "Nigeria",
+        "Cameroun",
+        "Sénégal",
+        "Sierra Leone",
+        "Liberia",
+        "Bénin",
+        "Togo"
+      ],
+      "altitude_m": {
+        "min": 0,
+        "max": 1200
+      },
+      "sol": [
+        "Sols latéritiques",
+        "Sols sablonneux humides"
+      ],
+      "maladies_traitees": [
+        {
+          "maladie": "Paludisme",
+          "synonyme_maladie": [
+            "Malaria",
+            "Fièvre des marais",
+            "Fièvre palustre",
+            "Kono (Peuhl)",
+            "Sumaya (Malinké)"
+          ],
+          "symptomes": [
+            "Fièvre élevée (38–40°C)",
+            "Frissons",
+            "Céphalées",
+            "Douleurs musculaires",
+            "Vomissements",
+            "Transpiration abondante",
+            "Fatigue intense",
+            "Splénomégalie"
+          ],
+          "partie_utilisee": [
+            "Feuilles",
+            "Écorce de tige",
+            "Racines"
+          ],
+          "mode_preparation": [
+            {
+              "methode": "Décoction",
+              "description": "Faire bouillir 50 g de feuilles fraîches ou 30 g d'écorce séchée dans 1 litre d'eau pendant 20 minutes. Filtrer et laisser refroidir.",
+              "solvant": "Eau",
+              "duree_preparation": "20 min"
+            },
+            {
+              "methode": "Macération",
+              "description": "Faire tremper 40 g d'écorce concassée dans 500 ml d'eau froide pendant 12 heures. Filtrer et boire.",
+              "solvant": "Eau froide",
+              "duree_preparation": "12 h"
+            }
+          ],
+          "posologie": {
+            "adulte": "250 ml, 3 fois par jour pendant 5 à 7 jours",
+            "enfant": "100 ml, 2 fois par jour (enfants > 5 ans) pendant 5 jours",
+            "duree_traitement": "5 à 7 jours"
+          },
+          "efficacite": {
+            "niveau": "Modéré à élevé",
+            "principes_actifs": [
+              "Lucidin",
+              "Damnacanthal",
+              "Alizarine",
+              "Morindone",
+              "Anthraquinones"
+            ],
+            "etudes_references": [
+              "Asuzu & Harvey, 2003",
+              "Fakoya et al., 2014"
+            ],
+            "taux_reduction_parasitemie": "60–75% en 5 jours (données ethnobotaniques)"
+          },
+          "precautions": [
+            "Ne pas administrer aux femmes enceintes (1er trimestre)",
+            "Éviter en cas d'insuffisance rénale",
+            "Surveiller la glycémie chez les diabétiques",
+            "Consulter un médecin en cas de paludisme grave"
+          ],
+          "contre_indications": [
+            "Grossesse (1er trimestre)",
+            "Insuffisance rénale sévère",
+            "Hypersensibilité connue aux Rubiaceae"
+          ],
+          "effets_secondaires": [
+            "Nausées légères",
+            "Diarrhées transitoires",
+            "Coloration jaune des urines (inoffensive)"
+          ]
+        },
+        {
+          "maladie": "Diabète de type 2",
+          "synonyme_maladie": [
+            "Hyperglycémie",
+            "Diabète sucré",
+            "Kololi (Peuhl)"
+          ],
+          "symptomes": [
+            "Polyurie",
+            "Polydipsie",
+            "Polyphagie",
+            "Fatigue",
+            "Vision floue",
+            "Cicatrisation lente"
+          ],
+          "partie_utilisee": [
+            "Feuilles",
+            "Racines"
+          ],
+          "mode_preparation": [
+            {
+              "methode": "Décoction de feuilles",
+              "description": "30 g de feuilles fraîches dans 500 ml d'eau, bouillir 15 min, filtrer, boire froid.",
+              "solvant": "Eau",
+              "duree_preparation": "15 min"
+            }
+          ],
+          "posologie": {
+            "adulte": "250 ml matin à jeun, pendant 30 jours",
+            "enfant": "Non recommandé < 12 ans",
+            "duree_traitement": "30 jours renouvelable après bilan glycémique"
+          },
+          "efficacite": {
+            "niveau": "Modéré",
+            "principes_actifs": [
+              "Polyphénols",
+              "Flavonoïdes",
+              "Alcaloïdes"
+            ],
+            "taux_reduction_glycemie": "Réduction de 15–25% de la glycémie à jeun"
+          },
+          "precautions": [
+            "Surveiller glycémie régulièrement",
+            "Ne pas arrêter traitement antidiabétique médical",
+            "Associer à un régime adapté"
+          ],
+          "contre_indications": [
+            "Hypoglycémie",
+            "Grossesse"
+          ],
+          "effets_secondaires": [
+            "Hypoglycémie si surdosage"
+          ]
+        }
+      ],
+      "autres_proprietes": {
+        "antibacterien": true,
+        "antiparasitaire": true,
+        "antipyretique": true,
+        "antioxydant": true,
+        "hepatoprotecteur": true,
+        "usages_non_medicinaux": [
+          "Bois d'œuvre léger",
+          "Colorant naturel (racines)"
+        ]
+      },
+      "statut_conservation": "Préoccupation mineure (UICN)",
+      "saison_recolte": "Toute l'année (feuilles), Saison sèche (écorce)"
+    },
+    {
+      "id": "PLT-002",
+      "plante_scientifique": "Azadirachta indica",
+      "famille": "Meliaceae",
+      "plante_locale": {
+        "peuhl": "Neem",
+        "malinke": "Neem",
+        "soussou": "Neem",
+        "francais": "Margousier / Neem"
+      },
+      "description_botanique": "Grand arbre à croissance rapide (15–20 m), à feuilles composées pennées, fleurs blanches parfumées en panicules axillaires, fruits drupes jaunes-verts. Répandu comme arbre d'ombrage.",
+      "zone_culture": [
+        "Savane sèche",
+        "Zone sahélienne",
+        "Zone soudanienne",
+        "Zones urbaines (haie)"
+      ],
+      "pays_distribution": [
+        "Guinée",
+        "Sénégal",
+        "Mali",
+        "Burkina Faso",
+        "Niger",
+        "Nigeria",
+        "Côte d'Ivoire",
+        "Ghana",
+        "Cameroun",
+        "Inde (origine)",
+        "Bangladesh"
+      ],
+      "altitude_m": {
+        "min": 0,
+        "max": 1500
+      },
+      "sol": [
+        "Sols latéritiques pauvres",
+        "Sols argileux",
+        "Sols sablonneux"
+      ],
+      "maladies_traitees": [
+        {
+          "maladie": "Paludisme",
+          "synonyme_maladie": [
+            "Malaria",
+            "Fièvre palustre",
+            "Sumaya (Malinké)",
+            "Kono (Peuhl)"
+          ],
+          "symptomes": [
+            "Fièvre",
+            "Frissons",
+            "Céphalées",
+            "Vomissements",
+            "Douleurs articulaires"
+          ],
+          "partie_utilisee": [
+            "Feuilles",
+            "Écorce",
+            "Graines (huile)"
+          ],
+          "mode_preparation": [
+            {
+              "methode": "Décoction de feuilles",
+              "description": "Bouillir 60 g de feuilles fraîches dans 1 litre d'eau pendant 30 minutes. Filtrer, refroidir.",
+              "solvant": "Eau",
+              "duree_preparation": "30 min"
+            },
+            {
+              "methode": "Bain de vapeur",
+              "description": "Faire bouillir les feuilles, inhaler la vapeur et se laver avec le liquide tiède pour soulager la fièvre.",
+              "usage": "Externe"
+            }
+          ],
+          "posologie": {
+            "adulte": "200 ml, 3 fois/jour pendant 7 jours",
+            "enfant": "100 ml, 2 fois/jour (> 5 ans)",
+            "duree_traitement": "7 jours"
+          },
+          "efficacite": {
+            "niveau": "Modéré",
+            "principes_actifs": [
+              "Azadirachtine",
+              "Nimbinoïdes",
+              "Géduninoïdes",
+              "Mélantriol"
+            ],
+            "etudes_references": [
+              "Okpanyi & Ezeukwu, 1981",
+              "Dhar et al., 1968"
+            ]
+          },
+          "precautions": [
+            "Ne pas administrer aux jeunes enfants < 5 ans",
+            "Toxicité potentielle à haute dose"
+          ],
+          "contre_indications": [
+            "Grossesse",
+            "Allaitement",
+            "Enfants < 3 ans",
+            "Insuffisance hépatique"
+          ],
+          "effets_secondaires": [
+            "Nausées",
+            "Vomissements",
+            "Diarrhées",
+            "Hépatotoxicité (surdosage)"
+          ]
+        },
+        {
+          "maladie": "Infections cutanées",
+          "synonyme_maladie": [
+            "Gale",
+            "Teigne",
+            "Dermatite",
+            "Plaies infectées"
+          ],
+          "symptomes": [
+            "Démangeaisons",
+            "Rougeurs",
+            "Lésions cutanées",
+            "Pustules",
+            "Pellicules"
+          ],
+          "partie_utilisee": [
+            "Feuilles",
+            "Huile de graines"
+          ],
+          "mode_preparation": [
+            {
+              "methode": "Application topique (pommade)",
+              "description": "Piler les feuilles fraîches, extraire le jus et appliquer directement sur les lésions 2 fois/jour.",
+              "usage": "Externe"
+            },
+            {
+              "methode": "Bain médicinal",
+              "description": "Faire bouillir 200 g de feuilles dans 5 litres d'eau, laisser tiédir, utiliser pour se laver.",
+              "usage": "Externe"
+            }
+          ],
+          "posologie": {
+            "adulte": "Application 2 fois/jour jusqu'à guérison (7–14 jours)",
+            "enfant": "Application douce 1 fois/jour",
+            "duree_traitement": "7 à 14 jours"
+          },
+          "efficacite": {
+            "niveau": "Élevé",
+            "principes_actifs": [
+              "Nimbinoïdes",
+              "Azadirachtine",
+              "Quercétine"
+            ],
+            "etudes_references": [
+              "Alzohairy, 2016"
+            ]
+          },
+          "precautions": [
+            "Éviter le contact avec les yeux",
+            "Tester sur petite zone avant application large"
+          ],
+          "contre_indications": [
+            "Allergie connue au Neem"
+          ],
+          "effets_secondaires": [
+            "Irritation cutanée légère",
+            "Odeur forte"
+          ]
+        },
+        {
+          "maladie": "Hypertension artérielle",
+          "synonyme_maladie": [
+            "Tension élevée",
+            "HTA",
+            "Pression haute"
+          ],
+          "symptomes": [
+            "Céphalées",
+            "Vertiges",
+            "Bourdonnements d'oreille",
+            "Epistaxis",
+            "Palpitations"
+          ],
+          "partie_utilisee": [
+            "Feuilles"
+          ],
+          "mode_preparation": [
+            {
+              "methode": "Infusion",
+              "description": "Verser 1 litre d'eau bouillante sur 20 feuilles fraîches. Infuser 10 min. Filtrer.",
+              "solvant": "Eau bouillante",
+              "duree_preparation": "10 min"
+            }
+          ],
+          "posologie": {
+            "adulte": "2 tasses par jour, matin et soir",
+            "enfant": "Non recommandé",
+            "duree_traitement": "30 jours avec surveillance tensionnelle"
+          },
+          "efficacite": {
+            "niveau": "Faible à modéré",
+            "principes_actifs": [
+              "Flavonoïdes",
+              "Quercétine",
+              "Catéchines"
+            ]
+          },
+          "precautions": [
+            "Surveiller la tension artérielle",
+            "Ne pas remplacer le traitement médical"
+          ],
+          "contre_indications": [
+            "Hypotension",
+            "Grossesse"
+          ],
+          "effets_secondaires": [
+            "Hypotension orthostatique si surdosage"
+          ]
+        }
+      ],
+      "autres_proprietes": {
+        "insecticide_naturel": true,
+        "antifongique": true,
+        "antibacterien": true,
+        "antiulcereux": true,
+        "immunostimulant": true,
+        "usages_non_medicinaux": [
+          "Pesticide agricole naturel",
+          "Bois de chauffe",
+          "Ombrage",
+          "Bâtons de dentifrice"
+        ]
+      },
+      "statut_conservation": "Non menacé",
+      "saison_recolte": "Toute l'année"
+    },
+    {
+      "id": "PLT-003",
+      "plante_scientifique": "Hibiscus sabdariffa",
+      "famille": "Malvaceae",
+      "plante_locale": {
+        "peuhl": "Bissap",
+        "malinke": "Dabileni",
+        "soussou": "Wonjoï",
+        "francais": "Oseille de Guinée / Bissap / Karkadé"
+      },
+      "description_botanique": "Plante herbacée annuelle (1–3 m), à tige rouge violacée, feuilles alternes palmatifides, fleurs jaune pâle à centre rouge, calices charnus rouge vif utilisés en boisson et médecine.",
+      "zone_culture": [
+        "Jardin potager",
+        "Champ villageois",
+        "Zone tropicale humide",
+        "Zone semi-aride"
+      ],
+      "pays_distribution": [
+        "Guinée",
+        "Sénégal",
+        "Mali",
+        "Burkina Faso",
+        "Côte d'Ivoire",
+        "Ghana",
+        "Nigeria",
+        "Niger",
+        "Égypte",
+        "Soudan",
+        "Thaïlande",
+        "Mexique"
+      ],
+      "altitude_m": {
+        "min": 0,
+        "max": 1000
+      },
+      "sol": [
+        "Sols bien drainés",
+        "Sols légers sablonneux",
+        "Sols limoneux fertiles"
+      ],
+      "maladies_traitees": [
+        {
+          "maladie": "Hypertension artérielle",
+          "synonyme_maladie": [
+            "HTA",
+            "Pression artérielle élevée",
+            "Tension haute",
+            "Folo bana (Malinké)"
+          ],
+          "symptomes": [
+            "Céphalées occipitales",
+            "Vertiges",
+            "Palpitations",
+            "Bouffées de chaleur",
+            "Fatigue",
+            "Vision trouble"
+          ],
+          "partie_utilisee": [
+            "Calices (fleurs séchées)"
+          ],
+          "mode_preparation": [
+            {
+              "methode": "Infusion chaude",
+              "description": "Infuser 10 g de calices séchés dans 500 ml d'eau bouillante pendant 15 minutes. Sucrer légèrement si nécessaire.",
+              "solvant": "Eau bouillante",
+              "duree_preparation": "15 min"
+            },
+            {
+              "methode": "Macération froide (Bissap froid)",
+              "description": "Tremper 20 g de calices dans 1 litre d'eau froide pendant 4 à 8 heures. Filtrer, boire.",
+              "solvant": "Eau froide",
+              "duree_preparation": "4–8 h"
+            }
+          ],
+          "posologie": {
+            "adulte": "2–3 verres (250 ml) par jour, de préférence sans sucre",
+            "enfant": "1 verre/jour dilué (> 5 ans)",
+            "duree_traitement": "30 jours continus avec contrôle tensionnel"
+          },
+          "efficacite": {
+            "niveau": "Élevé (validé cliniquement)",
+            "principes_actifs": [
+              "Anthocyanines",
+              "Acide hibiscique",
+              "Acide protocatéchique",
+              "Quercétine",
+              "Polyphénols"
+            ],
+            "etudes_references": [
+              "Herrera-Arellano et al., 2007",
+              "McKay et al., 2010",
+              "Wahabi et al., 2010"
+            ],
+            "reduction_pression": "Réduction de 7–13 mmHg pression systolique"
+          },
+          "precautions": [
+            "Surveiller tension artérielle",
+            "Interaction possible avec médicaments antihypertenseurs",
+            "Éviter en cas de grossesse (propriétés emménagogues)"
+          ],
+          "contre_indications": [
+            "Grossesse",
+            "Hypotension",
+            "Insuffisance rénale avancée"
+          ],
+          "effets_secondaires": [
+            "Hypotension légère",
+            "Diurèse accrue"
+          ]
+        },
+        {
+          "maladie": "Anémie ferriprive",
+          "synonyme_maladie": [
+            "Manque de sang",
+            "Pauvreté du sang"
+          ],
+          "symptomes": [
+            "Pâleur",
+            "Fatigue chronique",
+            "Essoufflement",
+            "Palpitations",
+            "Vertiges",
+            "Ongles cassants"
+          ],
+          "partie_utilisee": [
+            "Feuilles",
+            "Calices"
+          ],
+          "mode_preparation": [
+            {
+              "methode": "Sauce de feuilles",
+              "description": "Cuire les feuilles fraîches comme légume, consommer régulièrement avec les repas.",
+              "usage": "Alimentaire/Médicinal"
+            },
+            {
+              "methode": "Jus de calices enrichi",
+              "description": "Préparer le jus de bissap et ajouter du jus de citron pour améliorer l'absorption du fer.",
+              "solvant": "Eau + jus de citron"
+            }
+          ],
+          "posologie": {
+            "adulte": "Consommation quotidienne des feuilles et 2 verres de bissap/jour",
+            "enfant": "Intégré aux repas quotidiens",
+            "duree_traitement": "60 jours avec bilan sanguin"
+          },
+          "efficacite": {
+            "niveau": "Modéré (apport en fer non-héminique)",
+            "principes_actifs": [
+              "Fer (3.4 mg/100g feuilles fraîches)",
+              "Vitamine C (acide ascorbique)",
+              "Acide folique"
+            ]
+          },
+          "precautions": [
+            "Associer à une source de vitamine C pour améliorer l'absorption",
+            "Bilan sanguin régulier"
+          ],
+          "contre_indications": [
+            "Hémochromatose"
+          ],
+          "effets_secondaires": [
+            "Aucun connu à dose alimentaire"
+          ]
+        },
+        {
+          "maladie": "Infections urinaires",
+          "synonyme_maladie": [
+            "Cystite",
+            "Brûlures urinaires",
+            "UTI"
+          ],
+          "symptomes": [
+            "Brûlures mictionnelles",
+            "Pollakiurie",
+            "Urines troubles",
+            "Douleurs sus-pubiennes",
+            "Fièvre légère"
+          ],
+          "partie_utilisee": [
+            "Calices"
+          ],
+          "mode_preparation": [
+            {
+              "methode": "Tisane concentrée",
+              "description": "Infuser 15 g de calices séchés dans 500 ml d'eau bouillante pendant 20 min. Boire tiède.",
+              "duree_preparation": "20 min"
+            }
+          ],
+          "posologie": {
+            "adulte": "3 tasses/jour pendant 7 jours",
+            "enfant": "1–2 tasses/jour (> 8 ans)",
+            "duree_traitement": "7 jours"
+          },
+          "efficacite": {
+            "niveau": "Modéré",
+            "principes_actifs": [
+              "Acide hibiscique",
+              "Anthocyanines",
+              "Acide citrique"
+            ]
+          },
+          "precautions": [
+            "Consulter si fièvre élevée ou sang dans les urines"
+          ],
+          "contre_indications": [
+            "Grossesse",
+            "Insuffisance rénale"
+          ],
+          "effets_secondaires": [
+            "Diurèse accrue"
+          ]
+        }
+      ],
+      "autres_proprietes": {
+        "antioxydant": true,
+        "anti_inflammatoire": true,
+        "hepatoprotecteur": true,
+        "diuretique": true,
+        "emmenagogue": true,
+        "usages_non_medicinaux": [
+          "Boisson traditionnelle (Bissap)",
+          "Colorant alimentaire naturel",
+          "Condiment (feuilles)",
+          "Confiture (calices)"
+        ]
+      },
+      "statut_conservation": "Non menacé (cultivé)",
+      "saison_recolte": "Novembre à janvier (calices), Juin à septembre (feuilles)"
+    },
+    {
+      "id": "PLT-004",
+      "plante_scientifique": "Combretum micranthum",
+      "famille": "Combretaceae",
+      "plante_locale": {
+        "peuhl": "Kinkeliba",
+        "malinke": "Kinkiliba",
+        "soussou": "Kinkeliba",
+        "francais": "Kinkeliba"
+      },
+      "description_botanique": "Arbrisseau ou liane sarmenteuse (2–6 m), à feuilles elliptiques opposées coriaces, fleurs blanc-crème en épis terminaux, fruits à 4 ailes papyracées rougeâtres. Répandu en zone soudano-sahélienne.",
+      "zone_culture": [
+        "Savane soudanienne",
+        "Savane sahélienne",
+        "Forêt claire"
+      ],
+      "pays_distribution": [
+        "Guinée",
+        "Sénégal",
+        "Mali",
+        "Burkina Faso",
+        "Côte d'Ivoire",
+        "Gambie",
+        "Guinée-Bissau",
+        "Ghana",
+        "Niger",
+        "Nigeria"
+      ],
+      "altitude_m": {
+        "min": 50,
+        "max": 800
+      },
+      "sol": [
+        "Sols latéritiques",
+        "Sols sablonneux"
+      ],
+      "maladies_traitees": [
+        {
+          "maladie": "Paludisme",
+          "synonyme_maladie": [
+            "Malaria",
+            "Sumaya",
+            "Kono"
+          ],
+          "symptomes": [
+            "Fièvre",
+            "Frissons",
+            "Sueurs",
+            "Céphalées",
+            "Myalgies"
+          ],
+          "partie_utilisee": [
+            "Feuilles"
+          ],
+          "mode_preparation": [
+            {
+              "methode": "Décoction",
+              "description": "Faire bouillir une poignée (40 g) de feuilles séchées dans 1 litre d'eau pendant 20 min. Filtrer. Boire tiède.",
+              "solvant": "Eau",
+              "duree_preparation": "20 min"
+            }
+          ],
+          "posologie": {
+            "adulte": "3 tasses de 200 ml par jour, à jeun le matin et entre les repas",
+            "enfant": "1–2 tasses/jour (> 5 ans)",
+            "duree_traitement": "7 jours"
+          },
+          "efficacite": {
+            "niveau": "Modéré",
+            "principes_actifs": [
+              "Flavonoïdes",
+              "Vitexine",
+              "Acides phénoliques",
+              "Saponosides"
+            ],
+            "etudes_references": [
+              "Diallo et al., 2012",
+              "Maiga et al., 2005"
+            ]
+          },
+          "precautions": [
+            "Éviter en cas de grossesse",
+            "Surveiller la fonction hépatique"
+          ],
+          "contre_indications": [
+            "Grossesse",
+            "Allaitement",
+            "Insuffisance hépatique"
+          ],
+          "effets_secondaires": [
+            "Nausées légères",
+            "Vertiges si pris à jeun"
+          ]
+        },
+        {
+          "maladie": "Troubles hépatiques",
+          "synonyme_maladie": [
+            "Jaunisse",
+            "Ictère",
+            "Hépatite",
+            "Foie gonflé"
+          ],
+          "symptomes": [
+            "Jaunissement de la peau/yeux",
+            "Douleurs hypochondre droit",
+            "Urines foncées",
+            "Selles décolorées",
+            "Fatigue",
+            "Nausées"
+          ],
+          "partie_utilisee": [
+            "Feuilles",
+            "Racines"
+          ],
+          "mode_preparation": [
+            {
+              "methode": "Décoction de feuilles et racines",
+              "description": "Bouillir 30 g de feuilles + 20 g de racines dans 1 litre d'eau pendant 30 min. Filtrer et boire.",
+              "duree_preparation": "30 min"
+            }
+          ],
+          "posologie": {
+            "adulte": "250 ml, 2 fois/jour pendant 14 jours",
+            "enfant": "100 ml/jour",
+            "duree_traitement": "14 jours avec bilan hépatique"
+          },
+          "efficacite": {
+            "niveau": "Modéré à élevé",
+            "principes_actifs": [
+              "Vitexine",
+              "Isovitexine",
+              "Acide glycyrrhizique",
+              "Flavonoïdes"
+            ]
+          },
+          "precautions": [
+            "Bilan hépatique avant et après traitement",
+            "Éviter l'alcool"
+          ],
+          "contre_indications": [
+            "Cirrhose avancée",
+            "Hépatite B active"
+          ],
+          "effets_secondaires": [
+            "Légères diarrhées"
+          ]
+        },
+        {
+          "maladie": "Fièvre typhoïde",
+          "synonyme_maladie": [
+            "Typhoïde",
+            "Fièvre entérique",
+            "Fièvre de la saison des pluies"
+          ],
+          "symptomes": [
+            "Fièvre prolongée 38–40°C",
+            "Diarrhée",
+            "Douleurs abdominales",
+            "Céphalées",
+            "Rose sporotique",
+            "Bradycardie relative"
+          ],
+          "partie_utilisee": [
+            "Feuilles"
+          ],
+          "mode_preparation": [
+            {
+              "methode": "Infusion forte",
+              "description": "Verser 1 litre d'eau bouillante sur 60 g de feuilles séchées. Couvrir, infuser 20 min. Filtrer.",
+              "duree_preparation": "20 min"
+            }
+          ],
+          "posologie": {
+            "adulte": "250 ml, 4 fois/jour pendant 10 jours",
+            "enfant": "Non recommandé < 10 ans sans avis médical",
+            "duree_traitement": "10 jours"
+          },
+          "efficacite": {
+            "niveau": "Faible à modéré (appoint)",
+            "principes_actifs": [
+              "Polyphénols",
+              "Flavonoïdes",
+              "Terpènes"
+            ]
+          },
+          "precautions": [
+            "Traitement médical antibiotique indispensable",
+            "Usage en complément uniquement"
+          ],
+          "contre_indications": [
+            "Grossesse",
+            "Remplacement du traitement antibiotique"
+          ],
+          "effets_secondaires": [
+            "Diarrhées légères"
+          ]
+        }
+      ],
+      "autres_proprietes": {
+        "diuretique": true,
+        "antipyretique": true,
+        "cholagogue": true,
+        "antioxydant": true,
+        "usages_non_medicinaux": [
+          "Tisane traditionnelle de bien-être",
+          "Bois de chauffe"
+        ]
+      },
+      "statut_conservation": "Préoccupation mineure",
+      "saison_recolte": "Saison sèche (feuilles séchées sur pied)"
+    },
+    {
+      "id": "PLT-005",
+      "plante_scientifique": "Carica papaya",
+      "famille": "Caricaceae",
+      "plante_locale": {
+        "peuhl": "Papaye",
+        "malinke": "Papaye",
+        "soussou": "Papaye",
+        "francais": "Papayer"
+      },
+      "description_botanique": "Petit arbre (3–10 m) à tronc creux cylindrique non ramifié, grandes feuilles palmatilobées terminales, latex blanc abondant. Fruits charnus pouvant peser jusqu'à 5 kg, chair orange à rouge.",
+      "zone_culture": [
+        "Jardin familial",
+        "Verger tropical",
+        "Zone humide",
+        "Bord de cours d'eau"
+      ],
+      "pays_distribution": [
+        "Guinée",
+        "Tous pays tropicaux",
+        "Amérique centrale (origine)",
+        "Afrique subsaharienne",
+        "Asie du Sud-Est",
+        "Caraïbes"
+      ],
+      "altitude_m": {
+        "min": 0,
+        "max": 1500
+      },
+      "sol": [
+        "Sols profonds bien drainés",
+        "Sols riches en matière organique"
+      ],
+      "maladies_traitees": [
+        {
+          "maladie": "Paludisme",
+          "synonyme_maladie": [
+            "Malaria",
+            "Sumaya",
+            "Fièvre palustre"
+          ],
+          "symptomes": [
+            "Fièvre",
+            "Frissons",
+            "Vomissements",
+            "Céphalées",
+            "Thrombopénie (plaquettes basses)"
+          ],
+          "partie_utilisee": [
+            "Feuilles"
+          ],
+          "mode_preparation": [
+            {
+              "methode": "Jus de feuilles",
+              "description": "Piler 3–5 feuilles fraîches propres, extraire le jus (environ 30 ml). Boire sans dilution.",
+              "solvant": "Aucun",
+              "duree_preparation": "10 min"
+            },
+            {
+              "methode": "Décoction",
+              "description": "Bouillir 30 g de feuilles fraîches dans 500 ml d'eau pendant 15 min. Filtrer.",
+              "duree_preparation": "15 min"
+            }
+          ],
+          "posologie": {
+            "adulte": "30 ml de jus brut, 2 fois/jour pendant 5 jours",
+            "enfant": "10–15 ml, 2 fois/jour (> 5 ans)",
+            "duree_traitement": "5 jours"
+          },
+          "efficacite": {
+            "niveau": "Modéré (surtout pour élévation des plaquettes)",
+            "principes_actifs": [
+              "Carpaine",
+              "Papaïne",
+              "Quercétine",
+              "Kaempférol",
+              "Acétogénines"
+            ],
+            "etudes_references": [
+              "Sathasivam et al., 2020",
+              "Sharma & Bhatt, 2014"
+            ]
+          },
+          "precautions": [
+            "Goût amer intense, peut provoquer vomissements",
+            "Surveiller les plaquettes"
+          ],
+          "contre_indications": [
+            "Grossesse (puissant emménagogue/abortif)",
+            "Allaitement",
+            "Insuffisance rénale"
+          ],
+          "effets_secondaires": [
+            "Nausées",
+            "Vomissements",
+            "Diarrhée"
+          ]
+        },
+        {
+          "maladie": "Troubles digestifs",
+          "synonyme_maladie": [
+            "Dyspepsie",
+            "Ballonnements",
+            "Indigestion",
+            "Constipation"
+          ],
+          "symptomes": [
+            "Douleurs abdominales",
+            "Ballonnements",
+            "Constipation",
+            "Reflux gastrique",
+            "Nausées postprandiales"
+          ],
+          "partie_utilisee": [
+            "Fruit mûr",
+            "Fruit vert",
+            "Graines",
+            "Latex"
+          ],
+          "mode_preparation": [
+            {
+              "methode": "Consommation directe",
+              "description": "Manger 200–300 g de papaye mûre à jeun chaque matin.",
+              "usage": "Alimentaire"
+            },
+            {
+              "methode": "Infusion de graines",
+              "description": "Sécher 10 g de graines, les réduire en poudre, infuser dans 200 ml d'eau tiède 10 min.",
+              "duree_preparation": "10 min"
+            }
+          ],
+          "posologie": {
+            "adulte": "200–300 g de fruit mûr/jour ou 1 tasse d'infusion de graines",
+            "enfant": "100 g de fruit/jour",
+            "duree_traitement": "14 jours"
+          },
+          "efficacite": {
+            "niveau": "Élevé",
+            "principes_actifs": [
+              "Papaïne",
+              "Chymopapaïne",
+              "Fibres alimentaires",
+              "Acide citrique"
+            ]
+          },
+          "precautions": [
+            "Consommer à maturité optimale",
+            "Ne pas associer avec médicaments anticoagulants"
+          ],
+          "contre_indications": [
+            "Allergie au latex (cross-réactivité possible)",
+            "Grossesse (fruit vert)"
+          ],
+          "effets_secondaires": [
+            "Diarrhée légère si excès",
+            "Décoloration des paumes (caroténémie bénigne)"
+          ]
+        },
+        {
+          "maladie": "Vers intestinaux",
+          "synonyme_maladie": [
+            "Helminthiases",
+            "Ascaridiose",
+            "Oxyurose",
+            "Parasites intestinaux"
+          ],
+          "symptomes": [
+            "Douleurs abdominales",
+            "Prurit anal nocturne",
+            "Amaigrissement",
+            "Troubles du sommeil",
+            "Ballonnements"
+          ],
+          "partie_utilisee": [
+            "Graines",
+            "Latex"
+          ],
+          "mode_preparation": [
+            {
+              "methode": "Graines fraîches",
+              "description": "Mâcher 10–15 graines de papaye fraîches à jeun, avaler. Attendre 2 heures avant de manger.",
+              "usage": "Direct"
+            },
+            {
+              "methode": "Poudre de graines séchées",
+              "description": "Sécher les graines, les pulvériser. Mélanger 1 cuillère à soupe avec du miel. Prendre à jeun.",
+              "duree_preparation": "24 h (séchage)"
+            }
+          ],
+          "posologie": {
+            "adulte": "15 graines fraîches ou 1 c. à soupe de poudre, 1 fois/jour pendant 7 jours",
+            "enfant": "5–8 graines (> 5 ans), 1 fois/jour pendant 5 jours",
+            "duree_traitement": "7 jours"
+          },
+          "efficacite": {
+            "niveau": "Modéré à élevé",
+            "principes_actifs": [
+              "Carpaine",
+              "Benzylisothiocyanate",
+              "Benzylglucosinolate"
+            ],
+            "etudes_references": [
+              "Okeniyi et al., 2007"
+            ]
+          },
+          "precautions": [
+            "Ne pas dépasser la dose recommandée",
+            "Surveiller chez enfants"
+          ],
+          "contre_indications": [
+            "Grossesse",
+            "Enfants < 3 ans"
+          ],
+          "effets_secondaires": [
+            "Nausées",
+            "Crampes abdominales légères"
+          ]
+        }
+      ],
+      "autres_proprietes": {
+        "cicatrisant": true,
+        "anti_inflammatoire": true,
+        "antioxydant": true,
+        "antifongique": true,
+        "emmenagogue": true,
+        "riche_nutriments": {
+          "vitamine_C": "61 mg/100g",
+          "vitamine_A": "950 UI/100g",
+          "potassium": "257 mg/100g"
+        },
+        "usages_non_medicinaux": [
+          "Aliment",
+          "Attendrisseur de viande (papaïne)",
+          "Cosmétique (masques)"
+        ]
+      },
+      "statut_conservation": "Largement cultivé",
+      "saison_recolte": "Toute l'année"
+    },
+    {
+      "id": "PLT-006",
+      "plante_scientifique": "Ocimum gratissimum",
+      "famille": "Lamiaceae",
+      "plante_locale": {
+        "peuhl": "Doumou-poussi",
+        "malinke": "Doumou",
+        "soussou": "Bolokoli",
+        "francais": "Basilic africain / Faux basilic"
+      },
+      "description_botanique": "Sous-arbrisseau aromatique (0,5–2 m), fortement parfumé (arôme clou de girofle / thym), feuilles ovales dentées opposées, fleurs blanches ou rosées en épis verticillés. Très commun autour des habitations.",
+      "zone_culture": [
+        "Jardin familial",
+        "Bord de chemin",
+        "Zone rurale",
+        "Zones périurbaines"
+      ],
+      "pays_distribution": [
+        "Guinée",
+        "Côte d'Ivoire",
+        "Ghana",
+        "Nigeria",
+        "Bénin",
+        "Togo",
+        "Cameroun",
+        "Congo",
+        "Kenya",
+        "Inde"
+      ],
+      "altitude_m": {
+        "min": 0,
+        "max": 1800
+      },
+      "sol": [
+        "Sols légers bien drainés",
+        "Sols humifères"
+      ],
+      "maladies_traitees": [
+        {
+          "maladie": "Infections respiratoires",
+          "synonyme_maladie": [
+            "Rhume",
+            "Toux",
+            "Bronchite",
+            "Grippe",
+            "Angine"
+          ],
+          "symptomes": [
+            "Toux sèche ou grasse",
+            "Rhume",
+            "Congestion nasale",
+            "Maux de gorge",
+            "Fièvre légère",
+            "Expectorations"
+          ],
+          "partie_utilisee": [
+            "Feuilles fraîches",
+            "Tiges feuillées"
+          ],
+          "mode_preparation": [
+            {
+              "methode": "Infusion",
+              "description": "Verser 500 ml d'eau bouillante sur 30 g de feuilles fraîches. Couvrir et infuser 10 min. Ajouter miel et citron.",
+              "solvant": "Eau bouillante",
+              "duree_preparation": "10 min"
+            },
+            {
+              "methode": "Inhalation de vapeur",
+              "description": "Faire bouillir 100 g de feuilles dans 2 litres d'eau. Inhaler la vapeur tête couverte d'une serviette, 10 min.",
+              "usage": "Externe/Inhalation"
+            }
+          ],
+          "posologie": {
+            "adulte": "3 tasses d'infusion par jour pendant 5–7 jours",
+            "enfant": "2 tasses par jour (> 3 ans)",
+            "duree_traitement": "5 à 7 jours"
+          },
+          "efficacite": {
+            "niveau": "Élevé",
+            "principes_actifs": [
+              "Eugénol",
+              "Thymol",
+              "Linalol",
+              "Carvacrol",
+              "Terpènes"
+            ],
+            "etudes_references": [
+              "Nakamura et al., 1999",
+              "Onajobi, 1986"
+            ]
+          },
+          "precautions": [
+            "Eviter inhalation chez asthmatiques",
+            "Allergies aux Lamiaceae possibles"
+          ],
+          "contre_indications": [
+            "Grossesse à forte dose",
+            "Allergie aux huiles essentielles phénoliques"
+          ],
+          "effets_secondaires": [
+            "Irritation de la muqueuse buccale si concentration trop forte"
+          ]
+        },
+        {
+          "maladie": "Diarrhée",
+          "synonyme_maladie": [
+            "Gastroentérite",
+            "Colite",
+            "Syndrome dysentérique",
+            "Turista"
+          ],
+          "symptomes": [
+            "Selles liquides fréquentes (> 3/jour)",
+            "Crampes abdominales",
+            "Nausées",
+            "Déshydratation",
+            "Fièvre légère"
+          ],
+          "partie_utilisee": [
+            "Feuilles"
+          ],
+          "mode_preparation": [
+            {
+              "methode": "Décoction",
+              "description": "Faire bouillir 50 g de feuilles dans 1 litre d'eau pendant 20 min. Filtrer et boire par petites gorgées.",
+              "duree_preparation": "20 min"
+            }
+          ],
+          "posologie": {
+            "adulte": "250 ml toutes les 4 heures jusqu'à amélioration",
+            "enfant": "100 ml toutes les 6 heures (> 3 ans)",
+            "duree_traitement": "3 à 5 jours"
+          },
+          "efficacite": {
+            "niveau": "Modéré à élevé",
+            "principes_actifs": [
+              "Eugénol",
+              "Tannins",
+              "Polyphénols"
+            ]
+          },
+          "precautions": [
+            "Maintenir hydratation orale",
+            "Consulter si sang dans les selles",
+            "Surveiller chez enfants < 5 ans"
+          ],
+          "contre_indications": [
+            "Diarrhée sanglante (sans avis médical)",
+            "Cholera (traitement médical urgent)"
+          ],
+          "effets_secondaires": [
+            "Légère constipation de rebond"
+          ]
+        },
+        {
+          "maladie": "Infections fongiques cutanées",
+          "synonyme_maladie": [
+            "Mycose",
+            "Teigne",
+            "Candidose cutanée",
+            "Pied d'athlète"
+          ],
+          "symptomes": [
+            "Démangeaisons",
+            "Desquamation",
+            "Plaques rouges",
+            "Lésions circulaires",
+            "Suintement"
+          ],
+          "partie_utilisee": [
+            "Feuilles (huile essentielle)"
+          ],
+          "mode_preparation": [
+            {
+              "methode": "Application directe",
+              "description": "Froisser les feuilles fraîches pour libérer le jus. Appliquer directement sur les lésions 2 fois/jour.",
+              "usage": "Externe"
+            },
+            {
+              "methode": "Cataplasme",
+              "description": "Piler les feuilles, former une pâte et appliquer en emplâtre sur la zone affectée. Laisser 1 heure.",
+              "usage": "Externe"
+            }
+          ],
+          "posologie": {
+            "adulte": "Application 2–3 fois/jour pendant 14 jours",
+            "enfant": "Application douce 1 fois/jour",
+            "duree_traitement": "14 jours"
+          },
+          "efficacite": {
+            "niveau": "Élevé",
+            "principes_actifs": [
+              "Eugénol",
+              "Thymol",
+              "Carvacrol"
+            ]
+          },
+          "precautions": [
+            "Tester sur petite surface cutanée",
+            "Éviter les muqueuses"
+          ],
+          "contre_indications": [
+            "Plaies ouvertes profondes"
+          ],
+          "effets_secondaires": [
+            "Légère irritation cutanée",
+            "Sensation de brûlure passagère"
+          ]
+        }
+      ],
+      "autres_proprietes": {
+        "antibacterien": true,
+        "antifongique": true,
+        "anti_inflammatoire": true,
+        "insectifuge": true,
+        "carminatif": true,
+        "usages_non_medicinaux": [
+          "Condiment culinaire",
+          "Répulsif à insectes naturel",
+          "Déodorant d'ambiance"
+        ]
+      },
+      "statut_conservation": "Non menacé",
+      "saison_recolte": "Toute l'année (meilleure teneur en HE avant floraison)"
+    },
+    {
+      "id": "PLT-007",
+      "plante_scientifique": "Khaya senegalensis",
+      "famille": "Meliaceae",
+      "plante_locale": {
+        "peuhl": "Cailedrat",
+        "malinke": "Dialla",
+        "soussou": "Toura",
+        "francais": "Acajou du Sénégal / Cailcédrat"
+      },
+      "description_botanique": "Grand arbre imposant (20–30 m), à couronne dense arrondie, écorce gris-brun écailleuse, feuilles composées pennées caduques, fleurs blanches en panicules, fruits capsules ligneuses à 4–5 valves.",
+      "zone_culture": [
+        "Savane soudanienne",
+        "Savane soudano-guinéenne",
+        "Bord de rivières",
+        "Forêts galeries"
+      ],
+      "pays_distribution": [
+        "Guinée",
+        "Sénégal",
+        "Mali",
+        "Burkina Faso",
+        "Côte d'Ivoire",
+        "Ghana",
+        "Nigeria",
+        "Cameroun",
+        "Centrafrique",
+        "Soudan"
+      ],
+      "altitude_m": {
+        "min": 0,
+        "max": 1000
+      },
+      "sol": [
+        "Sols profonds latéritiques",
+        "Sols alluviaux",
+        "Sols argileux profonds"
+      ],
+      "maladies_traitees": [
+        {
+          "maladie": "Paludisme",
+          "synonyme_maladie": [
+            "Malaria",
+            "Sumaya",
+            "Fièvre palustre"
+          ],
+          "symptomes": [
+            "Fièvre haute",
+            "Frissons",
+            "Sueurs nocturnes",
+            "Céphalées violentes",
+            "Vomissements"
+          ],
+          "partie_utilisee": [
+            "Écorce de tronc",
+            "Feuilles",
+            "Graines"
+          ],
+          "mode_preparation": [
+            {
+              "methode": "Décoction d'écorce",
+              "description": "Gratter et faire bouillir 50 g d'écorce fraîche dans 1 litre d'eau pendant 30 min. Filtrer, refroidir.",
+              "solvant": "Eau",
+              "duree_preparation": "30 min"
+            }
+          ],
+          "posologie": {
+            "adulte": "200 ml, 3 fois/jour pendant 5 jours",
+            "enfant": "100 ml, 2 fois/jour (> 7 ans)",
+            "duree_traitement": "5 à 7 jours"
+          },
+          "efficacite": {
+            "niveau": "Modéré",
+            "principes_actifs": [
+              "Limonoïdes",
+              "Khayasine",
+              "Saponines",
+              "Triterpènes"
+            ],
+            "etudes_references": [
+              "Iwalewa et al., 2005"
+            ]
+          },
+          "precautions": [
+            "Amer et difficile à avaler (sucrer légèrement)",
+            "Éviter longue durée (hépatotoxicité possible)"
+          ],
+          "contre_indications": [
+            "Grossesse",
+            "Insuffisance hépatique",
+            "Insuffisance rénale"
+          ],
+          "effets_secondaires": [
+            "Amertume intense",
+            "Nausées",
+            "Hépatotoxicité à long terme"
+          ]
+        },
+        {
+          "maladie": "Diabète de type 2",
+          "synonyme_maladie": [
+            "Hyperglycémie",
+            "Kololi (Peuhl)",
+            "Sucre dans le sang"
+          ],
+          "symptomes": [
+            "Soif excessive",
+            "Mictions fréquentes",
+            "Perte de poids",
+            "Vision floue",
+            "Fatigue"
+          ],
+          "partie_utilisee": [
+            "Écorce",
+            "Feuilles",
+            "Graines"
+          ],
+          "mode_preparation": [
+            {
+              "methode": "Décoction d'écorce légère",
+              "description": "Faire bouillir 20 g d'écorce dans 500 ml d'eau pendant 15 min. Filtrer, boire tiède.",
+              "duree_preparation": "15 min"
+            }
+          ],
+          "posologie": {
+            "adulte": "250 ml le matin à jeun, pendant 30 jours",
+            "enfant": "Non recommandé",
+            "duree_traitement": "30 jours avec surveillance glycémique"
+          },
+          "efficacite": {
+            "niveau": "Modéré",
+            "principes_actifs": [
+              "Limonoïdes",
+              "Flavonoïdes",
+              "Alcaloïdes"
+            ]
+          },
+          "precautions": [
+            "Surveiller glycémie quotidiennement",
+            "Associer à régime alimentaire adapté"
+          ],
+          "contre_indications": [
+            "Grossesse",
+            "Insuffisance hépatique"
+          ],
+          "effets_secondaires": [
+            "Hypoglycémie potentielle",
+            "Nausées"
+          ]
+        }
+      ],
+      "autres_proprietes": {
+        "antipyretique": true,
+        "anti_inflammatoire": true,
+        "antibacterien": true,
+        "antifongique": true,
+        "usages_non_medicinaux": [
+          "Bois d'œuvre de haute qualité (acajou)",
+          "Arbre d'ombrage",
+          "Bois de charbon"
+        ]
+      },
+      "statut_conservation": "Vulnérable (UICN) – surexploitation du bois",
+      "saison_recolte": "Saison sèche (écorce), Toute l'année (feuilles)"
+    },
+    {
+      "id": "PLT-008",
+      "plante_scientifique": "Zingiber officinale",
+      "famille": "Zingiberaceae",
+      "plante_locale": {
+        "peuhl": "Higuide",
+        "malinke": "Niamou",
+        "soussou": "Fanghouma",
+        "francais": "Gingembre"
+      },
+      "description_botanique": "Plante herbacée rhizomateuse (0,6–1,2 m), rhizome charnu, noueux, aromatique, tiges aériennes feuillées, fleurs jaune-verdâtre en épis sur tiges séparées. Largement cultivé pour ses rhizomes.",
+      "zone_culture": [
+        "Jardin familial",
+        "Champ cultivé",
+        "Sous-bois humide",
+        "Zone tropicale humide"
+      ],
+      "pays_distribution": [
+        "Guinée",
+        "Côte d'Ivoire",
+        "Nigeria",
+        "Ghana",
+        "Cameroun",
+        "Inde (origine)",
+        "Chine",
+        "Jamaïque",
+        "Brésil",
+        "Indonésie"
+      ],
+      "altitude_m": {
+        "min": 0,
+        "max": 1500
+      },
+      "sol": [
+        "Sols humifères bien drainés",
+        "Sols légers limoneux"
+      ],
+      "maladies_traitees": [
+        {
+          "maladie": "Nausées et vomissements",
+          "synonyme_maladie": [
+            "Mal des transports",
+            "Nausées de grossesse",
+            "Nausées postopératoires",
+            "Cinétose"
+          ],
+          "symptomes": [
+            "Nausées",
+            "Vomissements",
+            "Malaise",
+            "Sueurs froides",
+            "Pâleur"
+          ],
+          "partie_utilisee": [
+            "Rhizome frais ou séché"
+          ],
+          "mode_preparation": [
+            {
+              "methode": "Infusion de gingembre frais",
+              "description": "Râper 5 g de gingembre frais dans 250 ml d'eau bouillante. Infuser 10 min. Ajouter miel et citron.",
+              "duree_preparation": "10 min"
+            },
+            {
+              "methode": "Gingembre cru",
+              "description": "Mâcher lentement un morceau de gingembre frais (1–2 cm) pour action immédiate.",
+              "usage": "Direct"
+            }
+          ],
+          "posologie": {
+            "adulte": "250 ml d'infusion, 3 fois/jour ou 1–2 g de poudre",
+            "enfant": "1 tasse légèrement dosée (> 5 ans)",
+            "duree_traitement": "Selon besoin, jusqu'à 14 jours"
+          },
+          "efficacite": {
+            "niveau": "Élevé (validé cliniquement)",
+            "principes_actifs": [
+              "Gingérols",
+              "Shogaols",
+              "Zingerone",
+              "Paradols"
+            ],
+            "etudes_references": [
+              "Vutyavanich et al., 2001",
+              "Ernst & Pittler, 2000"
+            ]
+          },
+          "precautions": [
+            "Dose élevée peut augmenter risque saignement",
+            "Interactions avec anticoagulants"
+          ],
+          "contre_indications": [
+            "Calculs biliaires",
+            "Trouble de coagulation (forte dose)"
+          ],
+          "effets_secondaires": [
+            "Brûlures gastriques si pris à jeun",
+            "Flatulences légères"
+          ]
+        },
+        {
+          "maladie": "Douleurs articulaires",
+          "synonyme_maladie": [
+            "Arthrite",
+            "Rhumatismes",
+            "Arthrose",
+            "Douleurs osseuses",
+            "Douleurs des vieux"
+          ],
+          "symptomes": [
+            "Douleur articulaire",
+            "Raideur matinale",
+            "Gonflement",
+            "Chaleur locale",
+            "Limitation de mouvement"
+          ],
+          "partie_utilisee": [
+            "Rhizome frais"
+          ],
+          "mode_preparation": [
+            {
+              "methode": "Décoction forte",
+              "description": "Faire bouillir 20 g de gingembre frais râpé dans 500 ml d'eau pendant 15 min. Boire chaud.",
+              "duree_preparation": "15 min"
+            },
+            {
+              "methode": "Cataplasme chaud",
+              "description": "Râper du gingembre frais, le chauffer légèrement et appliquer en cataplasme chaud sur l'articulation douloureuse. Laisser 30 min.",
+              "usage": "Externe"
+            }
+          ],
+          "posologie": {
+            "adulte": "2 tasses de décoction/jour + cataplasme selon besoin",
+            "enfant": "Cataplasme uniquement > 8 ans",
+            "duree_traitement": "30 jours"
+          },
+          "efficacite": {
+            "niveau": "Modéré à élevé",
+            "principes_actifs": [
+              "Gingérols",
+              "Shogaols",
+              "6-paradol"
+            ],
+            "etudes_references": [
+              "Altman & Marcussen, 2001"
+            ]
+          },
+          "precautions": [
+            "Éviter sur peau abîmée (cataplasme)",
+            "Interactions avec AINS"
+          ],
+          "contre_indications": [
+            "Anticoagulants à haute dose"
+          ],
+          "effets_secondaires": [
+            "Irritation cutanée (cataplasme)",
+            "Brûlures gastriques"
+          ]
+        },
+        {
+          "maladie": "Rhume et grippe",
+          "synonyme_maladie": [
+            "Infections virales des voies respiratoires",
+            "Coryza",
+            "Influenza"
+          ],
+          "symptomes": [
+            "Rhume",
+            "Toux",
+            "Fièvre",
+            "Congestion nasale",
+            "Maux de gorge",
+            "Courbatures"
+          ],
+          "partie_utilisee": [
+            "Rhizome frais"
+          ],
+          "mode_preparation": [
+            {
+              "methode": "Tisane gingembre-miel-citron",
+              "description": "Infuser 10 g de gingembre frais dans 500 ml d'eau bouillante, ajouter le jus d'1/2 citron et 1 c. à soupe de miel.",
+              "duree_preparation": "10 min"
+            }
+          ],
+          "posologie": {
+            "adulte": "3–4 tasses par jour pendant 5 jours",
+            "enfant": "2 tasses/jour (> 5 ans)",
+            "duree_traitement": "5 à 7 jours"
+          },
+          "efficacite": {
+            "niveau": "Élevé",
+            "principes_actifs": [
+              "Gingérols",
+              "Zingerone",
+              "Huiles essentielles"
+            ]
+          },
+          "precautions": [
+            "Éviter si allergie au gingembre"
+          ],
+          "contre_indications": [
+            "Aucune à dose thérapeutique standard"
+          ],
+          "effets_secondaires": [
+            "Légères brûlures gastriques"
+          ]
+        }
+      ],
+      "autres_proprietes": {
+        "anti_inflammatoire": true,
+        "antioxydant": true,
+        "digestif": true,
+        "carminatif": true,
+        "antibacterien": true,
+        "usages_non_medicinaux": [
+          "Épice culinaire",
+          "Boissons (ginger beer)",
+          "Confiserie",
+          "Conserverie"
+        ]
+      },
+      "statut_conservation": "Non menacé (cultivé)",
+      "saison_recolte": "8–10 mois après plantation (rhizomes)"
+    },
+    {
+      "id": "PLT-009",
+      "plante_scientifique": "Senna alata",
+      "famille": "Fabaceae",
+      "plante_locale": {
+        "peuhl": "Kassia",
+        "malinke": "Bogolobali",
+        "soussou": "Kankanse",
+        "francais": "Dartrier / Arbre à bougies"
+      },
+      "description_botanique": "Arbuste (2–4 m), feuilles pennées à folioles larges disposées en paires, fleurs jaune vif en épis dressés (aspect de bougie), gousses longues ailées. Très décoratif et médicinal.",
+      "zone_culture": [
+        "Bord de route",
+        "Jachère",
+        "Zone humide dégradée",
+        "Jardins"
+      ],
+      "pays_distribution": [
+        "Guinée",
+        "Côte d'Ivoire",
+        "Ghana",
+        "Nigeria",
+        "Cameroun",
+        "Brésil (origine)",
+        "Asie tropicale",
+        "Caraïbes"
+      ],
+      "altitude_m": {
+        "min": 0,
+        "max": 1200
+      },
+      "sol": [
+        "Sols pauvres",
+        "Sols dégradés",
+        "Sols sablonneux humides"
+      ],
+      "maladies_traitees": [
+        {
+          "maladie": "Infections fongiques cutanées",
+          "synonyme_maladie": [
+            "Teigne",
+            "Dermatomycose",
+            "Gale",
+            "Dartres",
+            "Mycose de peau"
+          ],
+          "symptomes": [
+            "Plaques desquamatives",
+            "Démangeaisons intenses",
+            "Cercles rouges",
+            "Perte de poils/cheveux localisée",
+            "Suintement"
+          ],
+          "partie_utilisee": [
+            "Feuilles fraîches"
+          ],
+          "mode_preparation": [
+            {
+              "methode": "Application directe",
+              "description": "Froisser les feuilles fraîches pour en extraire le jus verdâtre. Appliquer généreusement sur les lésions 2 fois/jour.",
+              "usage": "Externe"
+            },
+            {
+              "methode": "Pommade de feuilles",
+              "description": "Piler les feuilles avec un peu de beurre de karité ou huile de coco. Appliquer en couche fine sur lésions.",
+              "usage": "Externe"
+            }
+          ],
+          "posologie": {
+            "adulte": "2 applications par jour pendant 14–21 jours",
+            "enfant": "1 application douce par jour",
+            "duree_traitement": "14 à 21 jours"
+          },
+          "efficacite": {
+            "niveau": "Élevé (reconnu médicalement)",
+            "principes_actifs": [
+              "Aloe-émodine",
+              "Sennosides",
+              "Anthraquinones",
+              "Kaempférol"
+            ],
+            "etudes_references": [
+              "Damodaran & Venkataraman, 1994",
+              "Nweze & Eze, 2009"
+            ]
+          },
+          "precautions": [
+            "Éviter les yeux et muqueuses",
+            "Ne pas ingérer"
+          ],
+          "contre_indications": [
+            "Grossesse (usage interne)",
+            "Peau hypersensible"
+          ],
+          "effets_secondaires": [
+            "Légère irritation initiale",
+            "Coloration verdâtre temporaire"
+          ]
+        },
+        {
+          "maladie": "Constipation",
+          "synonyme_maladie": [
+            "Intestins paresseux",
+            "Occlusion légère"
+          ],
+          "symptomes": [
+            "Absence de selles > 3 jours",
+            "Selles dures",
+            "Douleurs abdominales",
+            "Ballonnements"
+          ],
+          "partie_utilisee": [
+            "Feuilles",
+            "Gousses séchées"
+          ],
+          "mode_preparation": [
+            {
+              "methode": "Décoction légère",
+              "description": "Bouillir 10 g de feuilles dans 250 ml d'eau pendant 10 min. Filtrer, boire le soir au coucher.",
+              "duree_preparation": "10 min"
+            }
+          ],
+          "posologie": {
+            "adulte": "1 tasse le soir, maximum 3 jours consécutifs",
+            "enfant": "Déconseillé < 12 ans",
+            "duree_traitement": "Maximum 3 jours"
+          },
+          "efficacite": {
+            "niveau": "Élevé",
+            "principes_actifs": [
+              "Sennosides A et B",
+              "Anthraquinones"
+            ]
+          },
+          "precautions": [
+            "Usage court terme uniquement",
+            "Risque de dépendance laxative si usage chronique"
+          ],
+          "contre_indications": [
+            "Grossesse",
+            "Maladies inflammatoires intestinales",
+            "Occlusion intestinale"
+          ],
+          "effets_secondaires": [
+            "Crampes abdominales",
+            "Diarrhée",
+            "Dépendance laxative (usage prolongé)"
+          ]
+        }
+      ],
+      "autres_proprietes": {
+        "laxatif": true,
+        "antifongique": true,
+        "antibacterien": true,
+        "anti_inflammatoire": true,
+        "usages_non_medicinaux": [
+          "Plante ornementale",
+          "Jachère améliorante"
+        ]
+      },
+      "statut_conservation": "Non menacé",
+      "saison_recolte": "Toute l'année (feuilles fraîches)"
+    },
+    {
+      "id": "PLT-010",
+      "plante_scientifique": "Annona muricata",
+      "famille": "Annonaceae",
+      "plante_locale": {
+        "peuhl": "Corossol",
+        "malinke": "Dankali",
+        "soussou": "Sapoti",
+        "francais": "Corossolier / Corossol"
+      },
+      "description_botanique": "Petit arbre (5–10 m), feuilles alternes elliptiques brillantes légèrement aromatiques, grandes fleurs verdâtres, grands fruits épineux verts (jusqu'à 5 kg) à chair blanche crémeuse acidulée.",
+      "zone_culture": [
+        "Verger tropical",
+        "Jardin familial",
+        "Zone côtière humide"
+      ],
+      "pays_distribution": [
+        "Guinée",
+        "Côte d'Ivoire",
+        "Sénégal",
+        "Nigeria",
+        "Cameroun",
+        "Antilles (origine)",
+        "Brésil",
+        "Mexique",
+        "Philippines"
+      ],
+      "altitude_m": {
+        "min": 0,
+        "max": 1000
+      },
+      "sol": [
+        "Sols profonds humifères",
+        "Sols limoneux bien drainés"
+      ],
+      "maladies_traitees": [
+        {
+          "maladie": "Insomnie et anxiété",
+          "synonyme_maladie": [
+            "Troubles du sommeil",
+            "Nervosité",
+            "Stress",
+            "Agitation nocturne"
+          ],
+          "symptomes": [
+            "Difficultés d'endormissement",
+            "Réveils nocturnes",
+            "Agitation",
+            "Palpitations",
+            "Tension nerveuse"
+          ],
+          "partie_utilisee": [
+            "Feuilles",
+            "Fruits"
+          ],
+          "mode_preparation": [
+            {
+              "methode": "Infusion de feuilles",
+              "description": "Infuser 5–7 feuilles fraîches dans 500 ml d'eau bouillante pendant 15 min. Boire tiède le soir.",
+              "duree_preparation": "15 min"
+            }
+          ],
+          "posologie": {
+            "adulte": "1 tasse le soir 30 min avant le coucher",
+            "enfant": "Non recommandé < 12 ans",
+            "duree_traitement": "14 jours"
+          },
+          "efficacite": {
+            "niveau": "Modéré",
+            "principes_actifs": [
+              "Acétogénines",
+              "Alcaloïdes isoquinoléiques",
+              "Annocatacine"
+            ],
+            "etudes_references": [
+              "Adewole & Caxton-Martins, 2006"
+            ]
+          },
+          "precautions": [
+            "Ne pas conduire après usage",
+            "Éviter avec médicaments sédatifs"
+          ],
+          "contre_indications": [
+            "Grossesse",
+            "Maladie de Parkinson (neurotoxicité potentielle)"
+          ],
+          "effets_secondaires": [
+            "Somnolence diurne",
+            "Hypotension légère"
+          ]
+        },
+        {
+          "maladie": "Hypertension artérielle",
+          "synonyme_maladie": [
+            "Tension élevée",
+            "HTA"
+          ],
+          "symptomes": [
+            "Céphalées",
+            "Vertiges",
+            "Epistaxis",
+            "Palpitations"
+          ],
+          "partie_utilisee": [
+            "Feuilles",
+            "Écorce"
+          ],
+          "mode_preparation": [
+            {
+              "methode": "Décoction",
+              "description": "Faire bouillir 10 feuilles dans 1 litre d'eau pendant 15 min. Filtrer. Boire frais.",
+              "duree_preparation": "15 min"
+            }
+          ],
+          "posologie": {
+            "adulte": "2 verres de 200 ml par jour",
+            "enfant": "Non recommandé",
+            "duree_traitement": "30 jours avec contrôle tensionnel"
+          },
+          "efficacite": {
+            "niveau": "Modéré",
+            "principes_actifs": [
+              "Acétogénines",
+              "Flavonoïdes",
+              "Tannins"
+            ]
+          },
+          "precautions": [
+            "Surveiller tension",
+            "Interactions médicamenteuses possibles"
+          ],
+          "contre_indications": [
+            "Maladie de Parkinson",
+            "Grossesse",
+            "Hypotension"
+          ],
+          "effets_secondaires": [
+            "Hypotension",
+            "Somnolence"
+          ]
+        }
+      ],
+      "autres_proprietes": {
+        "antitumoral_potentiel": true,
+        "antibacterien": true,
+        "antiparasitaire": true,
+        "diuretique": true,
+        "sedatif": true,
+        "riche_nutriments": {
+          "vitamine_C": "20 mg/100g",
+          "potassium": "278 mg/100g",
+          "fibres": "3.3g/100g"
+        },
+        "usages_non_medicinaux": [
+          "Jus de fruit",
+          "Crème glacée",
+          "Confiture",
+          "Boisson fermentée"
+        ]
+      },
+      "statut_conservation": "Non menacé (cultivé)",
+      "saison_recolte": "Toute l'année (fruits), Toute l'année (feuilles)"
+    }
+  ]
+}
