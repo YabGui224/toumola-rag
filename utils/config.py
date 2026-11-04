@@ -22,7 +22,7 @@ CHAT_MODEL = "mistral-small-latest"
 model = ChatMistralAI(
             model_name=CHAT_MODEL,
             api_key=MISTRAL_API_KEY,
-            temperature=0,
+            temperature=0.4,
             )
 
 embeddings = MistralAIEmbeddings(
@@ -33,18 +33,20 @@ embeddings = MistralAIEmbeddings(
 # ------------------ DSPy Configuration ------------------
 
 # --------------- Configuration de l'indexation ---------
-INPUT_DIR = "data/csv"       
-PDF_INPUT_DIR = "data/pdf"         
+CSV_INPUT_DIR = "data/csv"       
+PDF_INPUT_DIR = "data/pdf"
+JSONL_INPUT_DIR = "data/json"
+
 VECTOR_DB_DIR = "vector_db"         
 FAISS_INDEX_FILE = os.path.join(VECTOR_DB_DIR, "faiss_index.idx")
 DOCUMENT_CHUNKS_FILE = os.path.join(VECTOR_DB_DIR, "document_chunks.pkl")
 
-CHUNK_SIZE = 1000                  # Taille des chunks en *caractères* (vise ~512 tokens)
-CHUNK_OVERLAP = 200                 # Chevauchement en *caractères*
+CHUNK_SIZE = 500                  # Taille des chunks en *caractères* (vise ~512 tokens)
+CHUNK_OVERLAP = 100                 # Chevauchement en *caractères*
 EMBEDDING_BATCH_SIZE = 30           # Taille des lots pour l'API d'embedding
 
 # ------------------ Configuration de la Recherche ------------------
-SEARCH_K = 5                      # Nombre de documents à récupérer par défaut
+SEARCH_K = 3                      # Nombre de documents à récupérer par défaut
 
 text_splitter = RecursiveCharacterTextSplitter(
             chunk_size=CHUNK_SIZE,

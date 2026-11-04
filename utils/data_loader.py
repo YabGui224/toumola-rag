@@ -1,9 +1,11 @@
 import logging
 from typing import Optional, List
-from langchain_community.document_loaders import PyPDFDirectoryLoader, CSVLoader
+from langchain_community.document_loaders import JSONLoader, PyPDFDirectoryLoader, CSVLoader
 from langchain_core.documents import Document
 from typing import Dict
 from pathlib import Path
+
+from pydantic import json
 
 # Configuration du logging
 logging.basicConfig(level=logging.INFO, format='%(asctime)s - %(levelname)s - %(message)s')
@@ -22,7 +24,6 @@ def load_and_parse_csv(file_path: str) -> Optional[List[Document]]:
         return None
     
 
-
 def load_and_parse_pdf_in_directory(directory_path: str) -> List[Document] :
     """ Charge les fichiers PDF  """ 
     #verifier si c'est un dossier 
@@ -34,6 +35,20 @@ def load_and_parse_pdf_in_directory(directory_path: str) -> List[Document] :
     loader = PyPDFDirectoryLoader(input_dir)
     return loader.load()
 
+def load_and_parse_jsonl(file_path: str) -> Optional[List[Document]]:
+    """ Charge et analyse un fichier JSONL donné."""
+    try:
+        loader = JSONLoader(
+            file_path,
+            jq_schema='.',
+            json_lines=True,
+            content_key="text"
+        )
+        return loader.load()
+
+    except Exception as e:
+        logging.error(f"Erreur lors du chargement du fichier JSON {file_path}: {e}")
+        return None
 
 def load_and_parse_files(input_dir: str) -> List[Document]:
     """
@@ -61,6 +76,9 @@ def load_and_parse_files(input_dir: str) -> List[Document]:
             if ext == ".csv":
                 doc_list = load_and_parse_csv(str(file_path))
             
+            elif ext == ".jsonl":
+                doc_list = load_and_parse_jsonl(str(file_path))
+
             else:
                 logging.warning(f"Type de fichier non supporté ignoré: {relative_path}")
                 continue
@@ -74,4 +92,5 @@ def load_and_parse_files(input_dir: str) -> List[Document]:
     return documents
 
 
-# print(load_and_parse_pdf_in_directory('D:/ai_projects/toumola/data/pdf')[50].page_content)
+# [print(load_and_parse_csv('D:\\ai_projects\\toumola\\data\\csv\\toumola_medicinal_plants.csv')[i]) for i in range(5)]
+# print(load_and_parse_files('D:\\ai_projects\\toumola\\data\\csv\\'))

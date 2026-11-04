@@ -3,7 +3,7 @@ import argparse
 import logging
 from typing import Optional
 
-from config import INPUT_DIR, PDF_INPUT_DIR
+from config import CSV_INPUT_DIR, PDF_INPUT_DIR, JSONL_INPUT_DIR
 from data_loader import load_and_parse_files, load_and_parse_pdf_in_directory
 from vector_store import VectorStoreManager
 

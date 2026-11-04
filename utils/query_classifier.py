@@ -284,18 +284,3 @@ class QueryClassifier:
                         "reason": f"Erreur de classification: {str(e)}"
                     }
     
-
-
-# lm = dspy.LM(model=CHAT_MODEL, api_key=MISTRAL_API_KEY, temperature=0.9, api_base="https://api.mistral.ai")
-# dspy.configure(lm=lm)
-
-# class ClassifyWithDSPy(dspy.Signature):
-#     """Classify sentiment of a given sentence using DSPy."""
-
-#     setence: str = dspy.InputField()
-#     sentiment: Literal["rag", "direct"] = dspy.OutputField()
-#     confidence: float = dspy.OutputField()
-#     reason: str = dspy.OutputField()
-
-# classify = dspy.Predict(ClassifyWithDSPy)
-# classify(setence="Bonjour, comment traiter le paludisme?")
